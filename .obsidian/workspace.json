@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9ba2372577777c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "231d0e149a51841c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e517a75c706b71",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".DS_Store",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87e674c516a29f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79b513a83f02b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b66608c39c0eb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bccfe0145c67372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54bae4d553ad66ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9debf414a9b5443c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad1acb2ab0ba1a92",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3086629f748cfc3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd2f1967bd5a262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6de7925397073c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "760cce2ce7c31e80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "331b45ee301dab81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97b507d650777f30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "443dbb7c8fd44da8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c49359de87086b6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4db74ea3987cadf2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ad55d5d1ad9599a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": true,
+      "obsidian-weread-plugin:Weread": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "77e517a75c706b71",
+  "lastOpenFiles": [
+    "英1/2000真题/2000 入口.md",
+    "英1/2000真题/2000英语一text1.pdf",
+    "英语基础/英语积累-词性、语法、句子、时态.md",
+    "英语基础/10天搞定考研词汇-新东方.md",
+    "英1/2000真题/2000英语一text2.pdf",
+    "英1/2001真题/2001 入口.md",
+    "00 Inbox/5b446d17N59ac16c4.jpg.md",
+    "英1/真题词汇表.md",
+    "00 Templete/日记模版.md",
+    "英语基础",
+    "199入口.md",
+    "2022/05/07/10天搞定考研词汇-新东方.md",
+    "2022/05/07",
+    "2022/05",
+    "2022",
+    "日记/20230509_周二.md",
+    "记事本.md",
+    "README.md",
+    "Excalidraw/流程图绘制工具.md",
+    "微信读书/19a051a964c523e42ac14d03392e6e17.pdf.md",
+    "微信读书/2000英语一text1.pdf.md",
+    "微信读书/认知觉醒：开启自我改变的原动力.md",
+    "微信读书",
+    "00 Templete/Save-selection-content.md",
+    "英1/2000真题/2000英语一text3.pdf",
+    "conflict-files-obsidian-git.md",
+    "英1/2000真题/2000英语一text3笔记.docx",
+    "英1/2000真题/2000英语一text2笔记.docx",
+    "00 Inbox/().md",
+    "Excalidraw/Drawing 2023-05-09 15.58.00.excalidraw.svg",
+    "English.md",
+    "英语1/2000 真题.md",
+    "未命名.canvas",
+    "00 Inbox/未命名 1.md",
+    "日记/query.md",
+    "Excalidraw/Drawing 2023-05-09 11.49.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-09 11.47.09.excalidraw.md"
+  ]
+}

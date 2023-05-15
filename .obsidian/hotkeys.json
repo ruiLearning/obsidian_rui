@@ -1,0 +1,20 @@
+{
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": []
+}
