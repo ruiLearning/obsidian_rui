@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "231d0e149a51841c",
+        "id": "97e18c77b225d512",
         "type": "tabs",
         "children": [
           {
-            "id": "77e517a75c706b71",
+            "id": "39045959a3145982",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": false
+                "file": "英1/2000真题/2000 入口.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英1/2000真题/2000 入口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "英1/2000真题/2000 入口.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "英1/2000真题/2000 入口.md"
+              }
             }
           },
           {
@@ -195,7 +200,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "77e517a75c706b71",
+  "active": "39045959a3145982",
   "lastOpenFiles": [
     "英1/2000真题/2000 入口.md",
     "英1/2000真题/2000英语一text1.pdf",
