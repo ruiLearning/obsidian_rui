@@ -5,6 +5,14 @@
       "path": "英1/2000真题/2000 入口.md"
     },
     {
+      "basename": "2000英语一text2",
+      "path": "英1/2000真题/2000英语一text2.pdf"
+    },
+    {
+      "basename": "2000英语一text3",
+      "path": "英1/2000真题/2000英语一text3.pdf"
+    },
+    {
       "basename": "2000英语一text1",
       "path": "英1/2000真题/2000英语一text1.pdf"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "10天搞定考研词汇-新东方",
       "path": "英语基础/10天搞定考研词汇-新东方.md"
-    },
-    {
-      "basename": "2000英语一text2",
-      "path": "英1/2000真题/2000英语一text2.pdf"
     },
     {
       "basename": "2001 入口",
@@ -51,10 +55,6 @@
     {
       "basename": "流程图绘制工具",
       "path": "Excalidraw/流程图绘制工具.md"
-    },
-    {
-      "basename": "2000英语一text3",
-      "path": "英1/2000真题/2000英语一text3.pdf"
     }
   ],
   "omittedPaths": [],
