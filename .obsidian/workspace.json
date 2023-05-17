@@ -11,11 +11,9 @@
             "id": "39045959a3145982",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "英1/2000真题/2000 入口.md",
-                "mode": "source",
-                "source": false
+                "file": "英1/2000真题/2000英语一text2.pdf"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英1/2000真题/2000 入口.md",
+                "file": "英1/2000真题/2000英语一text2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英1/2000真题/2000 入口.md",
+                "file": "英1/2000真题/2000英语一text2.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英1/2000真题/2000 入口.md"
+                "file": "英1/2000真题/2000英语一text2.pdf"
               }
             }
           },
@@ -202,22 +200,25 @@
   },
   "active": "39045959a3145982",
   "lastOpenFiles": [
-    "英1/2000真题/2000英语一text2.pdf",
+    "英1/真题词汇表.md",
+    "英1/2000真题/2000 入口.md",
+    "199入口.md",
     "英1/2000真题/2000英语一text3.pdf",
+    "英1/2000真题/2000英语一text5.pdf",
+    "英1/2001真题/2001 入口.md",
+    "英1/2001真题/2001英语一text1笔记.docx",
+    "英1/2001真题/2001英语一text1.pdf",
+    "英1/2000真题/2000英语一text5笔记.docx",
+    "英1/2000真题/2000英语一text4笔记.docx",
+    "英1/2000真题/2000英语一text4.pdf",
+    "英1/2000真题/2000英语一text2.pdf",
     "英1/2000真题/2000英语一text1.pdf",
     "英语基础/英语积累-词性、语法、句子、时态.md",
-    "英1/2000真题/2000 入口.md",
     "英语基础/10天搞定考研词汇-新东方.md",
-    "英1/2001真题/2001 入口.md",
     "00 Inbox/5b446d17N59ac16c4.jpg.md",
-    "英1/真题词汇表.md",
     "00 Templete/日记模版.md",
     "英语基础",
-    "199入口.md",
     "2022/05/07/10天搞定考研词汇-新东方.md",
-    "2022/05/07",
-    "2022/05",
-    "2022",
     "日记/20230509_周二.md",
     "记事本.md",
     "README.md",
@@ -225,11 +226,8 @@
     "微信读书/19a051a964c523e42ac14d03392e6e17.pdf.md",
     "微信读书/2000英语一text1.pdf.md",
     "微信读书/认知觉醒：开启自我改变的原动力.md",
-    "微信读书",
     "00 Templete/Save-selection-content.md",
     "conflict-files-obsidian-git.md",
-    "英1/2000真题/2000英语一text3笔记.docx",
-    "英1/2000真题/2000英语一text2笔记.docx",
     "00 Inbox/().md",
     "Excalidraw/Drawing 2023-05-09 15.58.00.excalidraw.svg",
     "English.md",
