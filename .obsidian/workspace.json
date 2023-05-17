@@ -11,9 +11,11 @@
             "id": "39045959a3145982",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "英1/2000真题/2000英语一text2.pdf"
+                "file": "英语基础/英1基础.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英1/2000真题/2000英语一text2.pdf",
+                "file": "英语基础/英1基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英1/2000真题/2000英语一text2.pdf",
+                "file": "英语基础/英1基础.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英1/2000真题/2000英语一text2.pdf"
+                "file": "英语基础/英1基础.md"
               }
             }
           },
@@ -200,27 +202,28 @@
   },
   "active": "39045959a3145982",
   "lastOpenFiles": [
-    "英1/真题词汇表.md",
+    "英语基础/英语积累-词性、语法、句子、时态.md",
+    "英语基础/10天搞定考研词汇-新东方.md",
+    "英语基础/英1基础.md",
     "英1/2000真题/2000 入口.md",
-    "199入口.md",
-    "英1/2000真题/2000英语一text3.pdf",
-    "英1/2000真题/2000英语一text5.pdf",
     "英1/2001真题/2001 入口.md",
+    "记事本.md",
+    "199入口.md",
+    "英1/真题词汇表.md",
+    "英1/2000真题/2000英语一text5.pdf",
+    "英1/2000真题/2000英语一text4.pdf",
+    "英1/2000真题/2000英语一text3.pdf",
+    "英1/2000真题/2000英语一text2.pdf",
     "英1/2001真题/2001英语一text1笔记.docx",
     "英1/2001真题/2001英语一text1.pdf",
     "英1/2000真题/2000英语一text5笔记.docx",
     "英1/2000真题/2000英语一text4笔记.docx",
-    "英1/2000真题/2000英语一text4.pdf",
-    "英1/2000真题/2000英语一text2.pdf",
     "英1/2000真题/2000英语一text1.pdf",
-    "英语基础/英语积累-词性、语法、句子、时态.md",
-    "英语基础/10天搞定考研词汇-新东方.md",
     "00 Inbox/5b446d17N59ac16c4.jpg.md",
     "00 Templete/日记模版.md",
     "英语基础",
     "2022/05/07/10天搞定考研词汇-新东方.md",
     "日记/20230509_周二.md",
-    "记事本.md",
     "README.md",
     "Excalidraw/流程图绘制工具.md",
     "微信读书/19a051a964c523e42ac14d03392e6e17.pdf.md",
