@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语基础/英1基础.md",
-                "mode": "source",
+                "file": "英1/2000真题/2000 入口.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语基础/英1基础.md",
+                "file": "英1/2000真题/2000 入口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语基础/英1基础.md",
+                "file": "英1/2000真题/2000 入口.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语基础/英1基础.md"
+                "file": "英1/2000真题/2000 入口.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "39045959a3145982",
   "lastOpenFiles": [
-    "英1/2000真题/2000 入口.md",
     "英语基础/英1基础.md",
+    "英1/2000真题/2000 入口.md",
     "英1/2001真题/2001英语一text1笔记.docx",
     "英1/2001真题/2001英语一text1.pdf",
     "英1/2000真题/2000英语一text5笔记.docx",
