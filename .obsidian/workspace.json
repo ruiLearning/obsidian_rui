@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2157f23895b18251",
+  "active": "0bccfe0145c67372",
   "lastOpenFiles": [
     "199/199入口.md",
     "00 Aban/markdown/Markdown本地图片文件夹测试.md",
