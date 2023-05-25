@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7cdc5459d411065d",
+        "id": "36c1060834634e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "145bcf72dd31ec1c",
+            "id": "94a75e1211792608",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "ruiLearningCode",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -186,7 +186,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "145bcf72dd31ec1c",
+  "active": "94a75e1211792608",
   "lastOpenFiles": [
     "Home.md",
     "ruiLearningCode/RunBlog.bat.md",
