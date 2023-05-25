@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "36c1060834634e9c",
+        "id": "25eaae65693e94c9",
         "type": "tabs",
         "children": [
           {
-            "id": "94a75e1211792608",
+            "id": "632e8cf0bcc8dcc0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "ruiLearningCode/source/_posts/199入口.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ruiLearningCode/source/_posts/199入口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ruiLearningCode/source/_posts/199入口.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ruiLearningCode/source/_posts/199入口.md"
+              }
             }
           },
           {
@@ -186,32 +191,36 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "94a75e1211792608",
+  "active": "632e8cf0bcc8dcc0",
   "lastOpenFiles": [
+    "ruiLearningCode/db.json",
+    "ruiLearningCode/public/img/1.jpeg",
+    "ruiLearningCode/public/img/c490283ccf939edbfd1eae88ed493b2d.jpeg",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js.map",
+    "ruiLearningCode/public/img/week.png",
+    "ruiLearningCode/public/img/day.png",
+    "ruiLearningCode/public/img/year.png",
+    "ruiLearningCode/public/img/month.png",
+    "ruiLearningCode/public/img/loading2.webp",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js",
+    "ruiLearningCode/public/img/61936571517435c57aa0adc0bcdb1e4b.jpeg",
+    "ruiLearningCode/public/img/loading1.webp",
+    "ruiLearningCode/public/img/c6f82e76f3876732663482c22f53e4b7.jpeg",
+    "ruiLearningCode/public/assets/algolia/algoliasearchLite.js",
+    "ruiLearningCode/public/navigation/index.html",
+    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
+    "ruiLearningCode/public/love/memorial_day/jquery.js",
+    "ruiLearningCode/public/js/main.js",
+    "ruiLearningCode/public/js/tw_cn.js",
+    "ruiLearningCode/public/love/love/style.min.css",
+    "ruiLearningCode/public/love/memorial_day/hm.js",
+    "199/英语/英1真题精读/2000/2000 入口.md",
+    "ruiLearningCode/source/_posts/199入口.md",
+    "2022/10/06/199英语阅读方法及长难句逻辑.md",
     "Home.md",
     "ruiLearningCode/RunBlog.bat.md",
-    "ruiLearningCode/RunBlog.sh",
-    "ruiLearningCode/RunBlog.bat",
-    "ruiLearningCode/未命名文件夹",
     "75bb929b-f3ae-43fb-9895-0ad3790ded10.png.md",
     "README.md",
-    "ruiLearningCode/db.json",
-    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
-    "ruiLearningCode/public/video",
-    "ruiLearningCode/public/archives/2022/page/2/index.html",
-    "ruiLearningCode/public/tags/英语/page/2/index.html",
-    "ruiLearningCode/public/archives/page/2/index.html",
-    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
-    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zzgj.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
-    "ruiLearningCode/public/navigation/assets/images/logos/ydh.png",
-    "ruiLearningCode/public/navigation/assets/images/logos/xiayu.png",
     "ruiLearningCode/node_modules/hexo-auto-category/node_modules/js-yaml/README.md",
     "ruiLearningCode/node_modules/hexo-auto-category/node_modules/js-yaml/CHANGELOG.md",
     "ruiLearningCode/node_modules/hexo-auto-category/README.md",
@@ -221,19 +230,15 @@
     "ruiLearningCode/node_modules/hexo-auto-category/node_modules/argparse/CHANGELOG.md",
     "随笔.md",
     "ruiLearningCode/README.md",
-    "199/199入口.md",
     "00 Templete/Front-matter.md",
     "ruiLearningCode/source/_posts/199英语小作文模板.md",
     "ruiLearningCode/source/_posts/199逻辑.md",
     "ruiLearningCode/source/_posts/18练-4~6词汇以旧换新计划.md",
     "00 Templete/WeekPlan_H5.md",
     "ruiLearningCode/source/_posts/2022年3月计划及复盘.md",
-    "2022/10/06/199英语阅读方法及长难句逻辑.md",
     "ruiLearningCode/source/_posts/199英语二.md",
     "ruiLearningCode/node_modules/lodash/release.md",
     "ruiLearningCode/node_modules/lodash/README.md",
-    "ruiLearningCode/node_modules/run-queue/README.md",
-    "ruiLearningCode/node_modules/hexo-algoliasearch/node_modules/algoliasearch/README.md",
     "未命名.canvas"
   ]
 }
