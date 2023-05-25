@@ -12,5 +12,11 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "userIgnoreFilters": [
+    "ruiLearningCode/node_modules/",
+    "ruiLearningCode/scaffolds/",
+    "ruiLearningCode/themes/",
+    "ruiLearningCode/token/"
+  ]
 }
