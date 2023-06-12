@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随笔.md",
+                "file": "生活/十年北漂.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 294.5
   },
   "right": {
     "id": "3086629f748cfc3b",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随笔.md",
+                "file": "生活/十年北漂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随笔.md",
+                "file": "生活/十年北漂.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随笔.md"
+                "file": "生活/十年北漂.md"
               }
             }
           },
@@ -193,10 +193,15 @@
   },
   "active": "1ad55d5d1ad9599a",
   "lastOpenFiles": [
+    "生活/食在北京.md",
+    "生活/回忆录.md",
+    "生活/十年北漂.md",
+    "生活",
+    "Home.md",
+    "日记/测试 20230509_周二.md",
+    "ruiLearningCode/source/_posts/Markdown基础语法.md",
     "ruiLearningCode/source/_posts/199英语二.md",
     "README.md",
-    "Home.md",
-    "随笔.md",
     "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试.md",
     "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试/1b28a8930250f2458be500fc22060504.jpeg",
     "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试/loading1.webp",
@@ -211,7 +216,6 @@
     "ruiLearningCode/source/_posts/英语积累-鲤不语18练.md",
     "ruiLearningCode/source/_posts/英语积累-Be动词,系动词,谓语动词.md",
     "ruiLearningCode/source/_posts/英语学习-长期更新.md",
-    "日记/测试 20230509_周二.md",
     "00 Aban/markdown/Markdown数学公式写法.md",
     "00 Aban/markdown/Markdown基础语法.md",
     "00 Aban/markdown/Markdown本地图片文件夹测试.md",
@@ -224,9 +228,6 @@
     "ruiLearningCode/source/_posts/鲤不语计划模板.md",
     "ruiLearningCode/source/_posts/18练-中英句子关键差异.md",
     "ruiLearningCode/source/_posts/18练-[基本功]保持写句子手感(50句).md",
-    "ruiLearningCode/source/_posts/18练-专项训练.md",
-    "ruiLearningCode/source/_posts/3.鲤不语计划.md",
-    "ruiLearningCode/source/_posts/2.英语积累-词性、语法、句子、时态.md",
     "ruiLearningCode/source/_posts/鲤不语计划模板/weekplan.jpeg",
     "ruiLearningCode/source/_posts/鲤不语计划模板/onefirstread.png",
     "ruiLearningCode/source/_posts/鲤不语计划模板/goal.png",
@@ -238,7 +239,6 @@
     "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js",
     "ruiLearningCode/public/assets/algolia/algoliasearchLite.js",
     "ruiLearningCode/public/navigation/index.html",
-    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
     "未命名.canvas"
   ]
 }
