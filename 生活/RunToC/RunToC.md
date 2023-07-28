@@ -91,6 +91,8 @@
 7. 安省政府网站：[OINP Employer Job Offer: International Student stream | ontario.ca](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream)
 8. 加拿大政府官网查询学校信息：[Site Unreachable](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
 9. [跑路联盟，可以互相交流分享跑路的经验。](https://www.reddit.com/r/iwanttorun/)
+10. [Max\_Medyk的个人空间-Max\_Medyk个人主页-哔哩哔哩视频](https://space.bilibili.com/698579804)
+11. [加拿大移民 |普通移民行不通，想旅游签转学签，工签？不符合这四个条件，上帝都没办法](https://www.youtube.com/watch?v=9LDn-9MFOYY&ab_channel=56BelowTV%E9%9B%B6%E4%B8%8B56)
 
 
 

@@ -13,6 +13,10 @@
       "path": "生活/旅游/三峡.md"
     },
     {
+      "basename": "身份",
+      "path": "生活/RunToC/身份.md"
+    },
+    {
       "basename": "IELTS",
       "path": "生活/RunToC/IELTS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2001 入口",
       "path": "199/英语/英1真题精读/2001/2001 入口.md"
-    },
-    {
-      "basename": "2001英语一text1",
-      "path": "199/英语/英1真题精读/2001/2001英语一text1.pdf"
     }
   ],
   "omittedPaths": [],
