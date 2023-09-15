@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9ba2372577777c58",
+    "id": "c2bf48baebb46ed7",
     "type": "split",
     "children": [
       {
-        "id": "4a814801e4f1c665",
+        "id": "b07bd7a196a3bfcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6a3ea2974baa38",
+            "id": "b9bd8a345d2e2ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/家/临沂盛庄街道学校.md",
+                "file": "生活/旅游/生活-旅游-灵山岛.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "87e674c516a29f8a",
+    "id": "54dfc1820457d823",
     "type": "split",
     "children": [
       {
-        "id": "e79b513a83f02b1a",
+        "id": "30c33dad57119288",
         "type": "tabs",
         "children": [
           {
-            "id": "0bccfe0145c67372",
+            "id": "bdcefcd7a055ab13",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "503eedb1d3387085",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +51,7 @@
             }
           },
           {
-            "id": "54bae4d553ad66ee",
+            "id": "bc3f114f3cadb4de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,42 +66,43 @@
             }
           },
           {
-            "id": "9debf414a9b5443c",
+            "id": "6e535558e26855f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "ad1acb2ab0ba1a92",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 315.5
   },
   "right": {
-    "id": "3086629f748cfc3b",
+    "id": "c92cbc9a347ed3ec",
     "type": "split",
     "children": [
       {
-        "id": "6dd2f1967bd5a262",
+        "id": "562452e6c1415509",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6de7925397073c",
+            "id": "3f58fa1293b60ef6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b396d9cb1ce5ebdb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/家/临沂盛庄街道学校.md",
+                "file": "生活/旅游/生活-旅游-灵山岛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +114,19 @@
             }
           },
           {
-            "id": "760cce2ce7c31e80",
+            "id": "7f2c0ffe80843c05",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/家/临沂盛庄街道学校.md",
-                "linksCollapsed": true,
+                "file": "生活/旅游/生活-旅游-灵山岛.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "331b45ee301dab81",
+            "id": "a2bdddc531f4cbfa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,117 +137,93 @@
             }
           },
           {
-            "id": "97b507d650777f30",
+            "id": "be0790ed49e0aec3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/家/临沂盛庄街道学校.md"
+                "file": "生活/旅游/生活-旅游-灵山岛.md"
               }
             }
           },
           {
-            "id": "443dbb7c8fd44da8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c49359de87086b6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4db74ea3987cadf2",
+            "id": "fd407bf2d803184e",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "1ad55d5d1ad9599a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-weread-plugin:Weread": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "canvas:新建白板": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-weread-plugin:Weread": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0bccfe0145c67372",
+  "active": "b9bd8a345d2e2ea5",
   "lastOpenFiles": [
-    "ruiLearningCode/source/_posts/临沂盛庄街道学校.md",
-    "生活/家/临沂盛庄街道学校.md",
-    "生活/RunToC/RunToC.md",
-    "生活/家",
-    "生活/旅游/灵山岛.md",
-    "生活/旅游/三峡.md",
-    "生活/RunToC/身份.md",
-    "生活/RunToC/IELTS.md",
-    "生活/RunToC/未命名",
-    "ruiLearningCode/source/_posts/张家界暑假游.md",
-    "生活/RunToC",
-    "ruiLearningCode/db.json",
-    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
-    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js.map",
-    "ruiLearningCode/public/assets/algolia/algoliasearch.min.js",
-    "ruiLearningCode/public/assets/algolia/algoliasearchLite.js",
-    "ruiLearningCode/public/live2dw/assets/tororo.pose.json",
-    "ruiLearningCode/public/live2dw/lib/L2Dwidget.min.js",
-    "ruiLearningCode/public/love/img/love.png",
-    "ruiLearningCode/public/img/纯文字logo.png",
-    "ruiLearningCode/public/img/year.png",
-    "ruiLearningCode/public/img/week.png",
-    "ruiLearningCode/public/img/wechatimg.png",
-    "ruiLearningCode/public/img/ruiruilaile_square.png",
-    "ruiLearningCode/public/img/watermarker_芮.jpg",
-    "ruiLearningCode/public/img/ruiruilaile_radius.png",
-    "ruiLearningCode/public/img/ruiruilaile_cycle120X120.png",
-    "ruiLearningCode/public/img/ruiruilaile_cycle.png",
-    "ruiLearningCode/source/_posts/英语学习-长期更新.md",
-    "ruiLearningCode/source/_posts/199入口.md",
-    "Home.md",
-    "生活/在北京.md",
-    "生活/十年北漂.md",
-    "生活/回忆录.md",
-    "日记/测试 20230509_周二.md",
-    "ruiLearningCode/source/_posts/Markdown基础语法.md",
-    "ruiLearningCode/source/_posts/199英语二.md",
-    "README.md",
-    "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试.md",
-    "ruiLearningCode/source/_posts/英语积累-定冠词和不定冠词.md",
+    "ruiLearningCode/source/_posts/英语积累-视频-学习.md",
+    "ruiLearningCode/source/_posts/【探寻历史的痕迹，感受家的温馨】—城南个人家属院房子出租！.md",
     "ruiLearningCode/source/_posts/英语积累-基础知识.md",
-    "ruiLearningCode/source/_posts/英语积累-鲤不语18练.md",
+    "ruiLearningCode/source/_posts/英语积累-视频-学校.md",
+    "ruiLearningCode/source/_posts/英语积累-基础知识的副本.md",
+    "ruiLearningCode/source/_posts/生活-9月计划.md",
+    "ruiLearningCode/source/_posts/3.鲤不语计划.md",
+    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
+    "ruiLearningCode/public/video",
+    "ruiLearningCode/public/img/1.jpeg",
+    "ruiLearningCode/public/navigation/assets/images/preview.gif",
+    "ruiLearningCode/public/img/c490283ccf939edbfd1eae88ed493b2d.jpeg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.woff",
+    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.ttf",
+    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.woff",
+    "ruiLearningCode/public/2023/07/31/CA-RunToC/index.html",
+    "ruiLearningCode/public/2023/07/31/CA-ILAC/index.html",
+    "ruiLearningCode/public/2023/07/31/CA-签证/index.html",
+    "ruiLearningCode/public/2023/07/31/CA-身份/index.html",
+    "ruiLearningCode/public/2023/07/31/CA-学校/index.html",
+    "ruiLearningCode/public/navigation/assets/images/webstack_icon_producthunt.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/jmss.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/myphotopack.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/officeplus.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/js.jpg",
+    "ruiLearningCode/public/navigation/assets/images/logos/md.png",
+    "ruiLearningCode/source/_posts/199英语小作文模板.md",
+    "ruiLearningCode/source/_posts/2022年6月计划及复盘.md",
+    "ruiLearningCode/source/_posts/199计划_管综计划.md",
+    "ruiLearningCode/source/_posts/199计划_冲刺-2021.md",
+    "ruiLearningCode/source/_posts/199英语大作文模板.md",
+    "00 Templete/日记模版.md",
+    "ruiLearningCode/source/_posts/Hexo常用运营操作.md",
+    "ruiLearningCode/source/_posts/Markdown基础语法.md",
+    "ruiLearningCode/source/_posts/English-degree.md",
+    "ruiLearningCode/source/_posts/英语学习-长期更新.md",
+    "ruiLearningCode/source/_posts/2022年4月计划及复盘.md",
+    "ruiLearningCode/source/_posts/199学校分析.md",
+    "ruiLearningCode/source/_posts/星际穿越观后感.md",
+    "ruiLearningCode/source/_posts/生活-旅游-张家界暑假游.md",
+    "ruiLearningCode/source/_posts/生活-减肥.md",
+    "ruiLearningCode/source/_posts/生活-旅游-张家界暑假游的副本.md",
+    "ruiLearningCode/source/_posts/临沂盛庄街道学校.md",
     "ruiLearningCode/source/_posts/英语积累-Be动词,系动词,谓语动词.md",
-    "00 Aban/markdown/Markdown数学公式写法.md",
-    "00 Aban/markdown/Markdown基础语法.md",
-    "00 Aban/markdown/Markdown本地图片文件夹测试.md",
-    "未命名.canvas"
+    "ruiLearningCode/source/_posts/18练-8-10先写大作文第二段.md"
   ]
 }
