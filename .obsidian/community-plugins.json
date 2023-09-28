@@ -17,7 +17,6 @@
   "editing-toolbar",
   "obsidian-checklist-plugin",
   "note-refactor-obsidian",
-  "obsidian-git",
   "obsidian-copy-block-link",
   "obsidian-auto-link-title",
   "cm-editor-syntax-highlight-obsidian",
@@ -28,5 +27,6 @@
   "obsidian-pandoc",
   "url-into-selection",
   "obsidian-outliner",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
