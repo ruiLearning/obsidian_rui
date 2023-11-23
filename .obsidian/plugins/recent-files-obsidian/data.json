@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "199逻辑",
+      "path": "ruiLearningCode/source/_posts/199逻辑.md"
+    },
+    {
+      "basename": "199数学",
+      "path": "ruiLearningCode/source/_posts/199数学.md"
+    },
+    {
       "basename": "生活-骑行-北京To山东",
       "path": "生活/旅游/生活-骑行-北京To山东.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "测试 20230509_周二",
       "path": "日记/测试 20230509_周二.md"
-    },
-    {
-      "basename": "199英语二",
-      "path": "ruiLearningCode/source/_posts/199英语二.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

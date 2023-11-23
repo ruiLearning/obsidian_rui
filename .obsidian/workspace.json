@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/旅游/生活-骑行-北京To山东.md",
+                "file": "ruiLearningCode/source/_posts/199逻辑.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/旅游/生活-骑行-北京To山东.md",
+                "file": "ruiLearningCode/source/_posts/199逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/旅游/生活-骑行-北京To山东.md",
+                "file": "ruiLearningCode/source/_posts/199逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/旅游/生活-骑行-北京To山东.md"
+                "file": "ruiLearningCode/source/_posts/199逻辑.md"
               }
             }
           },
@@ -186,8 +186,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d71aa842aa014064",
+  "active": "157059922f82d8cf",
   "lastOpenFiles": [
+    "ruiLearningCode/db.json",
+    "ruiLearningCode/source/_posts/199数学.md",
     "生活/旅游/生活-骑行-北京To山东.md",
     "ruiLearningCode/source/_posts/生活-旅行-10月北京.md",
     "生活/旅游/生活-旅游-灵山岛.md",
@@ -231,8 +233,6 @@
     "ruiLearningCode/source/_posts/199英语大作文模板.md",
     "00 Templete/日记模版.md",
     "ruiLearningCode/source/_posts/Hexo常用运营操作.md",
-    "ruiLearningCode/source/_posts/Markdown基础语法.md",
-    "ruiLearningCode/source/_posts/English-degree.md",
-    "ruiLearningCode/source/_posts/英语学习-长期更新.md"
+    "ruiLearningCode/source/_posts/Markdown基础语法.md"
   ]
 }
