@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199逻辑.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199逻辑.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199逻辑.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,16 +141,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199逻辑.md"
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md"
               }
-            }
-          },
-          {
-            "id": "fd407bf2d803184e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -162,6 +153,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "deca24e74eed2d1d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
@@ -175,41 +174,43 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "obsidian-weread-plugin:Weread": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "157059922f82d8cf",
+  "active": "deca24e74eed2d1d",
   "lastOpenFiles": [
+    "ruiLearningCode/source/_posts/199数学_思维81绝_陈剑.md",
     "ruiLearningCode/db.json",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
-    "ruiLearningCode/public/video",
+    "ruiLearningCode/public/img/c490283ccf939edbfd1eae88ed493b2d.jpeg",
+    "ruiLearningCode/public/img/1.jpeg",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js.map",
+    "ruiLearningCode/public/img/week.png",
+    "ruiLearningCode/public/img/year.png",
+    "ruiLearningCode/public/img/loading2.webp",
+    "ruiLearningCode/public/img/month.png",
+    "ruiLearningCode/public/img/day.png",
+    "ruiLearningCode/public/img/61936571517435c57aa0adc0bcdb1e4b.jpeg",
+    "ruiLearningCode/public/assets/algolia/algoliasearch.js",
+    "ruiLearningCode/public/assets/algolia/algoliasearchLite.min.js",
     "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
-    "ruiLearningCode/public/pdf",
-    "ruiLearningCode/public/js/search/local-search.js",
-    "ruiLearningCode/public/js/search/algolia.js",
-    "ruiLearningCode/public/js/utils.js",
-    "ruiLearningCode/public/js/tw_cn.js",
-    "ruiLearningCode/public/js/main.js",
-    "ruiLearningCode/public/js/search",
-    "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
-    "ruiLearningCode/public/navigation/assets/images/logos/wdxsw.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zzgj.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
-    "ruiLearningCode/public/navigation/assets/images/logos/ydh.png",
+    "ruiLearningCode/public/love/img/favicon.ico",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.min.js",
+    "ruiLearningCode/public/live2dw/assets/tororo.pose.json",
+    "ruiLearningCode/public/img/c6f82e76f3876732663482c22f53e4b7.jpeg",
+    "ruiLearningCode/public/assets/algolia/algoliasearchLite.js",
+    "ruiLearningCode/public/love/img/love.png",
     "ruiLearningCode/source/_posts/199数学.md",
+    "ruiLearningCode/source/_posts/租房.md",
+    "ruiLearningCode/source/_posts/199逻辑.md",
     "生活/旅游/生活-骑行-北京To山东.md",
     "ruiLearningCode/source/_posts/生活-旅行-10月北京.md",
     "生活/旅游/生活-旅游-灵山岛.md",
@@ -230,9 +231,6 @@
     "ruiLearningCode/source/_posts/2022年6月计划及复盘.md",
     "ruiLearningCode/source/_posts/199计划_管综计划.md",
     "ruiLearningCode/source/_posts/199计划_冲刺-2021.md",
-    "ruiLearningCode/source/_posts/199英语大作文模板.md",
-    "00 Templete/日记模版.md",
-    "ruiLearningCode/source/_posts/Hexo常用运营操作.md",
-    "ruiLearningCode/source/_posts/Markdown基础语法.md"
+    "ruiLearningCode/source/_posts/199英语大作文模板.md"
   ]
 }
