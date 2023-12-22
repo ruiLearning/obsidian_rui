@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb4599673767421",
+        "id": "b38e8e25b8d2a2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "a09e6d6386199964",
+            "id": "227644a21ad09842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199收尾2023.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199收尾2023.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199收尾2023.md",
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199收尾2023.md"
+                "file": "ruiLearningCode/source/_posts/199英语翻译.md"
               }
             }
           },
@@ -185,35 +186,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a09e6d6386199964",
+  "active": "227644a21ad09842",
   "lastOpenFiles": [
-    "ruiLearningCode/source/_posts/199英语专项整篇训练_鲤的英语.md",
+    "ruiLearningCode/source/_posts/英语积累-词性、语法、句子、时态.md",
+    "ruiLearningCode/source/_posts/199英语二背诵范文整理及从句写法.md",
+    "ruiLearningCode/db.json",
+    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
+    "ruiLearningCode/public/video",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js.map",
+    "ruiLearningCode/public/love/memorial_day/w.jpg",
+    "ruiLearningCode/public/love/memorial_day/qrj.jpg",
+    "ruiLearningCode/public/live2dw/assets/tororo.pose.json",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js",
+    "ruiLearningCode/public/love/memorial_day/qixi.jpg",
+    "ruiLearningCode/public/love/img/favicon.ico",
+    "ruiLearningCode/public/love/memorial_day/ns.jpg",
+    "ruiLearningCode/public/assets/algolia/algoliasearch.min.js",
+    "ruiLearningCode/public/assets/algolia/algoliasearchLite.js",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.min.js",
+    "ruiLearningCode/public/love/img/love.png",
+    "ruiLearningCode/public/love/memorial_day/ta.jpg",
+    "ruiLearningCode/public/img/纯文字logo.png",
+    "ruiLearningCode/public/img/year.png",
+    "ruiLearningCode/public/img/week.png",
+    "ruiLearningCode/public/img/wechatimg.png",
+    "ruiLearningCode/source/_posts/英语积累-基础知识.md",
     "ruiLearningCode/source/_posts/199收尾2023.md",
+    "ruiLearningCode/source/_posts/199英语专项整篇训练_鲤的英语.md",
     "ruiLearningCode/source/_posts/199英语押题_鲤的英语.md",
     "ruiLearningCode/source/_posts/199英语押题_鲤的英语的副本.md",
     "ruiLearningCode/source/_posts/199英语翻译.md",
     "ruiLearningCode/source/_posts/199英语方法.md",
     "ruiLearningCode/source/_posts/199逻辑错题.md",
-    "ruiLearningCode/db.json",
-    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
-    "ruiLearningCode/public/video",
-    "ruiLearningCode/public/img/c490283ccf939edbfd1eae88ed493b2d.jpeg",
-    "ruiLearningCode/public/img/1.jpeg",
-    "ruiLearningCode/public/img/week.png",
-    "ruiLearningCode/public/img/month.png",
-    "ruiLearningCode/public/img/loading2.webp",
-    "ruiLearningCode/public/img/day.png",
-    "ruiLearningCode/public/img/year.png",
-    "ruiLearningCode/public/love/memorial_day/qrj.jpg",
-    "ruiLearningCode/public/img/61936571517435c57aa0adc0bcdb1e4b.jpeg",
-    "ruiLearningCode/public/2022/03/22/199英语押题_鲤的英语/index.html",
-    "ruiLearningCode/public/2022/03/22/199英语押题_鲤的英语",
-    "ruiLearningCode/public/love/memorial_day/ns.jpg",
-    "ruiLearningCode/public/assets/algolia/algoliasearch.js",
-    "ruiLearningCode/public/live2dw/assets/tororo.model.json",
-    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
-    "ruiLearningCode/public/live2dw/assets/tororo.pose.json",
-    "ruiLearningCode/public/assets/algolia/algoliasearchLite.min.js",
     "ruiLearningCode/source/_posts/199英语完形填空.md",
     "ruiLearningCode/source/_posts/199数学_思维81绝_陈剑.md",
     "ruiLearningCode/source/_posts/199数学.md",
@@ -229,9 +233,6 @@
     "生活/旅游/生活-骑行-北京To山东的副本.md",
     "生活/旅游/生活-旅游-灵山岛的副本.md",
     "ruiLearningCode/source/_posts/英语积累-视频-学习.md",
-    "ruiLearningCode/source/_posts/【探寻历史的痕迹，感受家的温馨】—城南个人家属院房子出租！.md",
-    "ruiLearningCode/source/_posts/英语积累-基础知识.md",
-    "ruiLearningCode/source/_posts/英语积累-视频-学校.md",
-    "ruiLearningCode/source/_posts/英语积累-基础知识的副本.md"
+    "ruiLearningCode/source/_posts/【探寻历史的痕迹，感受家的温馨】—城南个人家属院房子出租！.md"
   ]
 }
