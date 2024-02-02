@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "生活-旅游-青岛",
+      "path": "ruiLearningCode/source/_posts/生活-旅游-青岛.md"
+    },
+    {
+      "basename": "生活-旅行-台儿庄",
+      "path": "ruiLearningCode/source/_posts/生活-旅行-台儿庄.md"
+    },
+    {
+      "basename": "生活-旅游-张家界暑假游",
+      "path": "ruiLearningCode/source/_posts/生活-旅游-张家界暑假游.md"
+    },
+    {
       "basename": "199英语翻译",
       "path": "ruiLearningCode/source/_posts/199英语翻译.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "生活-骑行-第一次长途骑行准备",
       "path": "生活/旅游/生活-骑行-第一次长途骑行准备.md"
-    },
-    {
-      "basename": "生活-旅游-张家界暑假游",
-      "path": "ruiLearningCode/source/_posts/生活-旅游-张家界暑假游.md"
     },
     {
       "basename": "生活-旅游-三峡",
@@ -191,14 +199,6 @@
     {
       "basename": "Markdown本地图片文件夹测试",
       "path": "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试.md"
-    },
-    {
-      "basename": "Markdown页面UI-Template",
-      "path": "ruiLearningCode/source/_posts/Markdown页面UI-Template.md"
-    },
-    {
-      "basename": "临沂盛庄街道学校",
-      "path": "生活/家/临沂盛庄街道学校.md"
     }
   ],
   "omittedPaths": [],
