@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "健康_痛风",
+      "path": "ruiLearningCode/source/_posts/健康_痛风.md"
+    },
+    {
       "basename": "生活-旅游-青岛",
       "path": "ruiLearningCode/source/_posts/生活-旅游-青岛.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "生活-骑行-北京To山东",
       "path": "生活/旅游/生活-骑行-北京To山东.md"
-    },
-    {
-      "basename": "生活-旅行-10月北京",
-      "path": "ruiLearningCode/source/_posts/生活-旅行-10月北京.md"
     },
     {
       "basename": "生活-旅游-灵山岛",
@@ -191,14 +191,6 @@
     {
       "basename": "CA-签证",
       "path": "ruiLearningCode/source/_posts/CA-签证.md"
-    },
-    {
-      "basename": "CA-IELTS",
-      "path": "ruiLearningCode/source/_posts/CA-IELTS.md"
-    },
-    {
-      "basename": "Markdown本地图片文件夹测试",
-      "path": "ruiLearningCode/source/_posts/Markdown本地图片文件夹测试.md"
     }
   ],
   "omittedPaths": [],
