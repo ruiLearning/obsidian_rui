@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7cf91f7cdaab500",
+        "id": "7d1a0e9d8cf2e3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c31cc3f9e0b54600",
+            "id": "2f8d4e063e436266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/生活-旅行-大同.md",
+                "file": "ruiLearningCode/source/_posts/生活-旅行-北京.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruiLearningCode/source/_posts/生活-旅行-大同.md",
+                "file": "ruiLearningCode/source/_posts/生活-旅行-北京.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruiLearningCode/source/_posts/生活-旅行-大同.md",
+                "file": "ruiLearningCode/source/_posts/生活-旅行-北京.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/生活-旅行-大同.md"
+                "file": "ruiLearningCode/source/_posts/生活-旅行-北京.md"
               }
             }
           },
@@ -188,29 +188,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c31cc3f9e0b54600",
+  "active": "2f8d4e063e436266",
   "lastOpenFiles": [
+    "ruiLearningCode/source/_posts/生活-旅行-大同.md",
     "ruiLearningCode/db.json",
+    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/img/1.jpeg",
     "ruiLearningCode/public/img/c490283ccf939edbfd1eae88ed493b2d.jpeg",
-    "ruiLearningCode/public/img/ae3d6756795a474e0e4bec39310ab6.jpeg",
-    "ruiLearningCode/public/2024/03/01/生活-旅行-大同/index.html",
-    "ruiLearningCode/public/2024/03/01/生活-旅行-大同",
+    "ruiLearningCode/public/live2dw/lib/L2Dwidget.0.min.js.map",
     "ruiLearningCode/public/img/61936571517435c57aa0adc0bcdb1e4b.jpeg",
-    "ruiLearningCode/public/img/c6f82e76f3876732663482c22f53e4b7.jpeg",
-    "ruiLearningCode/public/css/index.css",
-    "ruiLearningCode/public/2024/03/01/生活-旅行-天津/index.html",
-    "ruiLearningCode/public/2024/03/01/生活-旅行-天津",
-    "ruiLearningCode/public/css/var.css",
-    "ruiLearningCode/public/img/6f50128f54222f6a8fa9d77090daf59d.jpeg",
-    "ruiLearningCode/public/img/9eb12bb5cd4e0db6d4752beb5f308ffb.jpeg",
-    "ruiLearningCode/public/img/67e5b3c194c09282c4415f0d96e03c65.jpeg",
-    "ruiLearningCode/public/img/2.webp",
-    "ruiLearningCode/public/img/af5c422da005d7ac4d61b321e3b0189c.jpeg",
-    "ruiLearningCode/public/index.html",
-    "ruiLearningCode/public/404.html",
-    "ruiLearningCode/public/archives/index.html",
-    "ruiLearningCode/public/about/index.html",
+    "ruiLearningCode/public/love/memorial_day/zyq.jpg",
+    "ruiLearningCode/public/love/memorial_day/qrj.jpg",
+    "ruiLearningCode/public/love/memorial_day/w.jpg",
+    "ruiLearningCode/public/img/year.png",
+    "ruiLearningCode/public/img/week.png",
+    "ruiLearningCode/public/img/day.png",
+    "ruiLearningCode/public/img/month.png",
+    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
+    "ruiLearningCode/public/js/search/algolia.js",
+    "ruiLearningCode/public/love/renxi/jscex-builderbase.min.js",
+    "ruiLearningCode/public/love/renxi/jscex-async.min.js",
+    "ruiLearningCode/public/love/renxi/jscex.min.js",
+    "ruiLearningCode/public/love/renxi/jscex-async-powerpack.min.js",
+    "ruiLearningCode/public/love/memorial_day/entry.js",
+    "生活/搞钱/vlog.md",
     "ruiLearningCode/source/_posts/健康_痛风.md",
     "ruiLearningCode/source/_posts/生活-旅游-青岛.md",
     "ruiLearningCode/source/_posts/健康_减肥.md",
@@ -234,7 +235,6 @@
     "ruiLearningCode/source/_posts/199英语完形填空.md",
     "ruiLearningCode/source/_posts/199数学_思维81绝_陈剑.md",
     "ruiLearningCode/source/_posts/199数学.md",
-    "ruiLearningCode/source/_posts/租房.md",
-    "ruiLearningCode/source/_posts/199逻辑.md"
+    "ruiLearningCode/source/_posts/租房.md"
   ]
 }
