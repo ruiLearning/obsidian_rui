@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199学校分析.md",
+                "file": "ruiLearningCode/source/_posts/live/旅行-大纲.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "390088AEA8AFDE7D739F43DA69114C54.jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199学校分析.md",
+                "file": "ruiLearningCode/source/_posts/live/旅行-大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199学校分析.md",
+                "file": "ruiLearningCode/source/_posts/live/旅行-大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/199学校分析.md"
+                "file": "ruiLearningCode/source/_posts/live/旅行-大纲.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "0d75cdd07bdbf540",
   "lastOpenFiles": [
+    "ruiLearningCode/source/_posts/tech/Markdown本地图片文件夹测试.md",
+    "ruiLearningCode/source/_posts/tech/图库.md",
+    "ruiLearningCode/source/_posts/live/旅行-大纲.md",
     "ruiLearningCode/source/_posts/199逻辑.md",
     "ruiLearningCode/source/_posts/199计划_管综计划.md",
     "ruiLearningCode/source/_posts/社科赛斯词汇课2.md",
@@ -232,9 +235,6 @@
     "ruiLearningCode/source/_posts/生活-旅游-青岛.md",
     "ruiLearningCode/source/_posts/健康_减肥.md",
     "生活/健康/减肥.md",
-    "生活/健康/健康_减肥.md",
-    "生活/健康/痛风.md",
-    "生活/健康/健康_痛风.md",
-    "ruiLearningCode/source/_posts/生活-旅行-台儿庄.md"
+    "生活/健康/健康_减肥.md"
   ]
 }

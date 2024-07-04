@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "旅行-大纲",
+      "path": "ruiLearningCode/source/_posts/live/旅行-大纲.md"
+    },
+    {
+      "basename": "Markdown本地图片文件夹测试",
+      "path": "ruiLearningCode/source/_posts/tech/Markdown本地图片文件夹测试.md"
+    },
+    {
+      "basename": "图库",
+      "path": "ruiLearningCode/source/_posts/tech/图库.md"
+    },
+    {
       "basename": "199学校分析",
       "path": "ruiLearningCode/source/_posts/199学校分析.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "English-degree",
       "path": "ruiLearningCode/source/_posts/English-degree.md"
-    },
-    {
-      "basename": "英语学习-长期更新",
-      "path": "ruiLearningCode/source/_posts/英语学习-长期更新.md"
-    },
-    {
-      "basename": "2022年4月计划及复盘",
-      "path": "ruiLearningCode/source/_posts/2022年4月计划及复盘.md"
-    },
-    {
-      "basename": "临沂盛庄街道学校",
-      "path": "ruiLearningCode/source/_posts/临沂盛庄街道学校.md"
     }
   ],
   "omittedPaths": [],
