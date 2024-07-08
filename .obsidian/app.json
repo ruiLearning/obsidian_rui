@@ -15,8 +15,8 @@
   },
   "userIgnoreFilters": [
     "ruiLearningCode/node_modules/",
-    "ruiLearningCode/scaffolds/",
     "ruiLearningCode/themes/",
-    "ruiLearningCode/token/"
+    "ruiLearningCode/token/",
+    "ruiLearningCode/node_modules/"
   ]
 }
