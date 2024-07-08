@@ -11,6 +11,17 @@
             "id": "798edf570226e6b0",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "ee16d037e7fe1942",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -165,13 +176,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "4bfcbbea9e510387",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +208,12 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "503eedb1d3387085",
+  "active": "798edf570226e6b0",
   "lastOpenFiles": [
-    "ruiLearningCode/source/_posts/199/199计划_管综计划.md",
     "Home.md",
+    "ruiLearningCode/themes/butterfly4.3.1/_config.yml.md",
+    "ruiLearningCode/themes/butterfly4.3.1",
+    "ruiLearningCode/source/_posts/199/199计划_管综计划.md",
     "未命名.md",
     "生活/搞钱/搞钱.md",
     "未命名.canvas",
@@ -218,7 +239,6 @@
     "ruiLearningCode/source/_posts/2022年03月18日总结.md",
     "ruiLearningCode/source/_posts/199英语模板基础.md",
     "ruiLearningCode/source/_posts/199数学基础总结.md",
-    "ruiLearningCode/source/_posts/199数学原型提大串讲72点.md",
     "ruiLearningCode/db.json",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/img/1.jpeg",
@@ -236,7 +256,6 @@
     "ruiLearningCode/public/js/search/algolia.js",
     "ruiLearningCode/public/love/renxi/jscex-builderbase.min.js",
     "ruiLearningCode/public/love/renxi/jscex-async.min.js",
-    "ruiLearningCode/public/love/renxi/jscex.min.js",
-    "ruiLearningCode/public/love/renxi/jscex-async-powerpack.min.js"
+    "ruiLearningCode/public/love/renxi/jscex.min.js"
   ]
 }
