@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "流程图绘制工具",
+      "path": "Excalidraw/流程图绘制工具.md"
     },
     {
-      "basename": "_config.yml",
-      "path": "ruiLearningCode/themes/butterfly4.3.1/_config.yml.md"
+      "basename": "obsidian",
+      "path": "obsidian.md"
+    },
+    {
+      "basename": "hexo",
+      "path": "00 Templete/hexo.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "199计划_管综计划",
@@ -39,10 +47,6 @@
     {
       "basename": "旅行-大纲",
       "path": "ruiLearningCode/source/_posts/live/旅行-大纲.md"
-    },
-    {
-      "basename": "Markdown本地图片文件夹测试",
-      "path": "ruiLearningCode/source/_posts/tech/Markdown本地图片文件夹测试.md"
     },
     {
       "basename": "图库",
@@ -155,50 +159,6 @@
     {
       "basename": "199英语专项整篇训练_鲤的英语",
       "path": "ruiLearningCode/source/_posts/199英语专项整篇训练_鲤的英语.md"
-    },
-    {
-      "basename": "199英语押题_鲤的英语",
-      "path": "ruiLearningCode/source/_posts/199英语押题_鲤的英语.md"
-    },
-    {
-      "basename": "199英语方法",
-      "path": "ruiLearningCode/source/_posts/199英语方法.md"
-    },
-    {
-      "basename": "199逻辑错题",
-      "path": "ruiLearningCode/source/_posts/199逻辑错题.md"
-    },
-    {
-      "basename": "199英语完形填空",
-      "path": "ruiLearningCode/source/_posts/199英语完形填空.md"
-    },
-    {
-      "basename": "199数学_思维81绝_陈剑",
-      "path": "ruiLearningCode/source/_posts/199数学_思维81绝_陈剑.md"
-    },
-    {
-      "basename": "生活-骑行-北京To山东",
-      "path": "生活/旅游/生活-骑行-北京To山东.md"
-    },
-    {
-      "basename": "生活-旅游-灵山岛",
-      "path": "生活/旅游/生活-旅游-灵山岛.md"
-    },
-    {
-      "basename": "生活-骑行-第一次长途骑行准备",
-      "path": "生活/旅游/生活-骑行-第一次长途骑行准备.md"
-    },
-    {
-      "basename": "生活-旅游-三峡",
-      "path": "生活/旅游/生活-旅游-三峡.md"
-    },
-    {
-      "basename": "生活-旅游-曲阜",
-      "path": "生活/旅游/生活-旅游-曲阜.md"
-    },
-    {
-      "basename": "英语积累-视频-学习",
-      "path": "ruiLearningCode/source/_posts/英语积累-视频-学习.md"
     }
   ],
   "omittedPaths": [],

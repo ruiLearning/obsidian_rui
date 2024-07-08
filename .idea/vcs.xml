@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ruiLearningCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruiLearningCode/themes/butterfly" vcs="Git" />
   </component>
 </project>

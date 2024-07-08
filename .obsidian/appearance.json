@@ -1,5 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "weread",
+    "weread_mini"
+  ]
 }
