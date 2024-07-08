@@ -1,0 +1,53 @@
+.top05 { background-color: #a15d4e; color: rgb(231, 231, 231); vertical-align: top; border-radius: 3px; padding: 1px 6px; font-size: 8px; height: 14px; line-height: 14px; text-decoration:none; /* font-weight: 600; */ letter-spacing: .1em; }
+
+img[alt^=“cover”] {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+
+    .callout:not(.is-collapsed).callout[data-callout$=w3] {
+        width: 35%;
+        margin-left:5%;
+        float: right;
+        }
+
+        .sep {
+            border-bottom: 1px solid #464763;
+            border-width: 1px;
+            width:98%;
+            display: block;
+            margin-bottom: 1.5%;
+            margin-top: 1.5%;
+            }
+
+            .jy {
+                font-size:15.6px;
+                color:#858585;
+                display: block;
+                margin-top: -2.5%;
+                padding-left:2%;
+                margin-left:8%;
+                margin-bottom: 1%;
+                text-align: justify;
+                }
+                
+                .jy:before {
+                content: ‘’;
+                background-size: 55px 55px;
+                transform: translateX(50%) translateY(90%);
+                background-repeat: no-repeat;
+                display: block;
+                height: 55px;
+                width: 55px;
+                margin-left: -14.5%;
+                background-image: url(“data:image/svg+xml,%3Csvg class=‘icon’ viewBox=‘0 0 1024 1024’ xmlns=‘SVG namespace’ width=‘32’ height=‘32’%3E%3Cpath d=‘M128 853.333a42.667 42.667 0 0 1 42.667-42.666h682.666a42.667 42.667 0 1 1 0 85.333H170.667A42.667 42.667 0 0 1 128 853.333z’ fill=‘%23464763’/%3E%3Cpath d=‘M622.336 170.667a85.333 85.333 0 0 1 120.661 0l110.336 110.336a85.333 85.333 0 0 1 0 120.661L371.5 883.499A42.667 42.667 0 0 1 341.333 896H170.667A42.667 42.667 0 0 1 128 853.333V682.667a42.667 42.667 0 0 1 12.501-30.166l481.835-481.834zm170.667 170.666L682.667 230.997 213.333 700.331v110.336H323.67l469.334-469.334z’ fill=‘%23464763’/%3E%3Cpath d=‘M481.835 311.168a42.667 42.667 0 0 1 60.33 0l170.667 170.667a42.667 42.667 0 0 1-60.33 60.33L481.834 371.5a42.667 42.667 0 0 1 0-60.331z’ fill=‘%23464763’/%3E%3C/svg%3E”);
+                }
+
+                .callout[data-callout=“w3”] {
+                    width: 35%;
+                    background-color:transparent;
+                    margin: 0%;
+                    float: right;
+                    box-shadow: none!important;
+                    border: none;
+                    }
