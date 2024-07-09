@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f803e0f023922ed8","type":"text","text":"反射系统","x":-240,"y":-80,"width":250,"height":60},
+		{"id":"d11863ed07a1fc44","type":"file","file":"ruiLearningCode/source/_obsidian/117_1720508921.mp4","x":434,"y":40,"width":180,"height":400},
+		{"id":"e58e9934bdee652f","type":"file","file":"ruiLearningCode/source/_posts/live/travel/旅行-大纲.md","x":100,"y":-160,"width":400,"height":400},
+		{"id":"cd3286fbba4524db","type":"file","file":"ruiLearningCode/source/_posts/live/travel/beijing/北京-怀柔.md","x":-800,"y":-240,"width":400,"height":380},
+		{"id":"7b258fc3dfcfdcb8","type":"file","file":"ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md","x":-800,"y":240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"fb90e6a44a457f37","fromNode":"f803e0f023922ed8","fromSide":"right","toNode":"e58e9934bdee652f","toSide":"left"},
+		{"id":"74b42c8b6403f762","fromNode":"f803e0f023922ed8","fromSide":"left","toNode":"cd3286fbba4524db","toSide":"right"},
+		{"id":"8636019e20515320","fromNode":"f803e0f023922ed8","fromSide":"left","toNode":"7b258fc3dfcfdcb8","toSide":"right"}
+	]
+}

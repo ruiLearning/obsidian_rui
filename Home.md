@@ -6,3 +6,7 @@
 
 
 [运行博客](obsidian://open?file=ruiLearningCode/RunBlog.sh)
+
+
+- [ ] 18:00 休息
+

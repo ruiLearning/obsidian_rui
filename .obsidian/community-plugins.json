@@ -28,5 +28,11 @@
   "url-into-selection",
   "obsidian-outliner",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "cmdr",
+  "convert-url-to-iframe",
+  "obsidian-annotator",
+  "obsidian-charts",
+  "obsidian-timelines"
 ]

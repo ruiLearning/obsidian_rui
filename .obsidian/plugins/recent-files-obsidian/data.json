@@ -1,28 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "流程图绘制工具",
-      "path": "Excalidraw/流程图绘制工具.md"
+      "basename": "北京",
+      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京.md"
     },
     {
-      "basename": "obsidian",
-      "path": "obsidian.md"
+      "basename": "北京-密云",
+      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云.md"
     },
     {
       "basename": "hexo",
       "path": "00 Templete/hexo.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "199计划_管综计划",
-      "path": "ruiLearningCode/source/_posts/199/199计划_管综计划.md"
-    },
-    {
-      "basename": "搞钱",
-      "path": "生活/搞钱/搞钱.md"
+      "basename": "WeekPlan_H5",
+      "path": "00 Templete/WeekPlan_H5.md"
     },
     {
       "basename": "日记模版",
@@ -33,12 +25,92 @@
       "path": "00 Templete/Front-matter.md"
     },
     {
-      "basename": "WeekPlan_H5",
-      "path": "00 Templete/WeekPlan_H5.md"
+      "basename": "测试 20230509_周二",
+      "path": "日记/测试 20230509_周二.md"
     },
     {
-      "basename": "00汇总列表",
-      "path": "199/英语/00汇总列表.md"
+      "basename": "20240709_周二",
+      "path": "日记/20240709_周二.md"
+    },
+    {
+      "basename": "20240708_周一",
+      "path": "日记/20240708_周一.md"
+    },
+    {
+      "basename": "测试看板",
+      "path": "测试看板.md"
+    },
+    {
+      "basename": "测试白板",
+      "path": "测试白板.canvas"
+    },
+    {
+      "basename": "流程图绘制工具",
+      "path": "Excalidraw/流程图绘制工具.md"
+    },
+    {
+      "basename": "北京-昌平",
+      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md"
+    },
+    {
+      "basename": "北京-怀柔",
+      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京-怀柔.md"
+    },
+    {
+      "basename": "旅行-大纲",
+      "path": "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "obsidian.md"
+    },
+    {
+      "basename": "117_1720508921",
+      "path": "ruiLearningCode/source/_obsidian/117_1720508921.mp4"
+    },
+    {
+      "basename": "README",
+      "path": "ruiLearningCode/node_modules/pug-load/README.md"
+    },
+    {
+      "basename": "01 自动选择模板",
+      "path": "99 - obsidian/templater/01 自动选择模板.md"
+    },
+    {
+      "basename": "02 手动选择模板",
+      "path": "99 - obsidian/templater/02 手动选择模板.md"
+    },
+    {
+      "basename": "03 选择学习相关模板",
+      "path": "99 - obsidian/templater/03 选择学习相关模板.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "99 - obsidian/templater/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-人物模板",
+      "path": "99 - obsidian/templater/tp-人物模板.md"
+    },
+    {
+      "basename": "tp-物品模板",
+      "path": "99 - obsidian/templater/tp-物品模板.md"
+    },
+    {
+      "basename": "tp-长青笔记模板",
+      "path": "99 - obsidian/templater/tp-长青笔记模板.md"
+    },
+    {
+      "basename": "199计划_管综计划",
+      "path": "ruiLearningCode/source/_posts/199/199计划_管综计划.md"
+    },
+    {
+      "basename": "搞钱",
+      "path": "生活/搞钱/搞钱.md"
     },
     {
       "basename": "健康_减肥",
@@ -107,58 +179,6 @@
     {
       "basename": "199数学",
       "path": "ruiLearningCode/source/_posts/199数学.md"
-    },
-    {
-      "basename": "199复试",
-      "path": "ruiLearningCode/source/_posts/199复试.md"
-    },
-    {
-      "basename": "18练-16~18最后学小作文",
-      "path": "ruiLearningCode/source/_posts/18练-16~18最后学小作文.md"
-    },
-    {
-      "basename": "北京",
-      "path": "ruiLearningCode/source/_posts/生活-旅行-北京.md"
-    },
-    {
-      "basename": "生活-旅行-大同",
-      "path": "ruiLearningCode/source/_posts/生活-旅行-大同.md"
-    },
-    {
-      "basename": "健康_痛风",
-      "path": "ruiLearningCode/source/_posts/健康_痛风.md"
-    },
-    {
-      "basename": "生活-旅游-青岛",
-      "path": "ruiLearningCode/source/_posts/生活-旅游-青岛.md"
-    },
-    {
-      "basename": "生活-旅行-台儿庄",
-      "path": "ruiLearningCode/source/_posts/生活-旅行-台儿庄.md"
-    },
-    {
-      "basename": "生活-旅游-张家界暑假游",
-      "path": "ruiLearningCode/source/_posts/生活-旅游-张家界暑假游.md"
-    },
-    {
-      "basename": "199英语翻译",
-      "path": "ruiLearningCode/source/_posts/199英语翻译.md"
-    },
-    {
-      "basename": "英语积累-词性、语法、句子、时态",
-      "path": "ruiLearningCode/source/_posts/英语积累-词性、语法、句子、时态.md"
-    },
-    {
-      "basename": "英语积累-基础知识",
-      "path": "ruiLearningCode/source/_posts/英语积累-基础知识.md"
-    },
-    {
-      "basename": "199收尾2023",
-      "path": "ruiLearningCode/source/_posts/199收尾2023.md"
-    },
-    {
-      "basename": "199英语专项整篇训练_鲤的英语",
-      "path": "ruiLearningCode/source/_posts/199英语专项整篇训练_鲤的英语.md"
     }
   ],
   "omittedPaths": [],

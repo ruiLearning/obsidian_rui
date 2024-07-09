@@ -18,5 +18,6 @@
     "ruiLearningCode/themes/",
     "ruiLearningCode/token/",
     "ruiLearningCode/node_modules/"
-  ]
+  ],
+  "showRibbon": true
 }

@@ -11,15 +11,16 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "99 - obsidian/templater/script",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "日记",
+      "template": "99 - obsidian/templater/01 自动选择模板.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     ""
   ],
