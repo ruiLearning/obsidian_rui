@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "813e61b6551cdd39",
+        "id": "6255ff29b0f4f49a",
         "type": "tabs",
         "children": [
           {
-            "id": "b90db30124f959d7",
+            "id": "e8166d92a6d2f49e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
+                "file": "00 Templete/templater/tp-长青笔记模板.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e3b1b4e6f53f957f",
+            "id": "914cbfc381ee777b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Templete/hexo.md",
+                "file": "30 - 学习/ .md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
+                "file": "30 - 学习/ .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
+                "file": "30 - 学习/ .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/beijing/北京.md"
+                "file": "30 - 学习/ .md"
               }
             }
           },
@@ -215,59 +216,58 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-memos:Thino": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "b90db30124f959d7",
+  "active": "914cbfc381ee777b",
   "lastOpenFiles": [
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云-云蒙山.md",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云-黑龙潭.md",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云-黑龙潭+捧河湾.md",
     "ruiLearningCode/db.json",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云.md",
-    "00 Templete/hexo.md",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京-密云-黑龙.md",
-    "00 Templete/WeekPlan_H5.md",
-    "00 Templete/日记模版.md",
-    "00 Templete/Front-matter.md",
-    "日记/测试 20230509_周二.md",
-    "日记/20240709_周二.md",
-    "日记/20240708_周一.md",
-    "199/英语/00汇总列表.md",
-    "199/未命名.md",
-    "199/英语/英1真题精读/2000/2000英语一text2.pdf",
-    "199/英语/英1真题精读/2000/2000 入口.md",
-    "199/英语/英1真题精读/2000/2000英语一text1.pdf",
-    "199/英语/考研/英1基础.md",
-    "199/逻辑/逻辑.md",
-    "测试看板.md",
-    "测试白板.canvas",
-    "Excalidraw/流程图绘制工具.md",
-    "Home.md",
-    "obsidian.md",
-    "Excalidraw/Drawing 2024-07-09 15.18.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-09 15.18.04_0.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-09 15.22.55.excalidraw.md",
-    "未命名.md",
-    "未命名 1.canvas",
-    "ruiLearningCode/source/_obsidian/117_1720508921 1.mp4",
-    "ruiLearningCode/source/_obsidian/117_1720508921.mp4",
-    "40 - 生活/01 物品",
-    "40 - 生活",
-    "30 - 学习/01 写作学习",
-    "30 - 学习",
-    "99 - obsidian/templater/script/getTitleSnippet.js",
-    "ruiLearningCode/node_modules/cli-table/node_modules/colors/screenshots/colors.png",
-    "ruiLearningCode/node_modules/live2d-widget-model-tororo/assets/moc/tororo.2048/texture_00.png",
-    "ruiLearningCode/node_modules/hexo-algolia/algolia-write-key.png",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/css/fonts/elusive/font/elusive.svg",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/css/fonts/linecons/font/linecons.svg",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/images/logos/xiami.png",
-    "ruiLearningCode/themes/butterfly/source/navigation/assets/images/logos/xiayu.png"
+    "ruiLearningCode/public/img/1.jpeg",
+    "ruiLearningCode/public/2022年03月16日总结.html",
+    "ruiLearningCode/public/Markdown基础语法.html",
+    "ruiLearningCode/public/199英语2真题-安排、计划.html",
+    "ruiLearningCode/public/index.html",
+    "ruiLearningCode/public/199英语押题_鲤的英语.html",
+    "ruiLearningCode/public/199写作素材.html",
+    "ruiLearningCode/public/Markdown语法Tag.html",
+    "ruiLearningCode/public/Markdown本地图片文件夹测试.html",
+    "ruiLearningCode/public/2022年03月18日总结.html",
+    "ruiLearningCode/public/199计划_管综计划.html",
+    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
+    "ruiLearningCode/public/navigation/assets/images/logos/zzgj.jpg",
+    "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
+    "ruiLearningCode/public/navigation/assets/images/logos/xiami.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
+    "ruiLearningCode/node_modules/hexo-renderer-pug/README.md",
+    "ruiLearningCode/node_modules/hexo-butterfly-recommend/README.md",
+    "ruiLearningCode/node_modules/hexo-magnet/README.md",
+    "ruiLearningCode/node_modules/fsevents/README.md",
+    "00 - 临时文件夹/ .md",
+    "30 - 学习/ .md",
+    "30 - 学习/03 其他/ .md",
+    "50 - 人脉/02 其他/ .md",
+    "00 Inbox/未命名.md",
+    "00 Inbox/Home.md",
+    "00 Inbox/obsidian.md",
+    "00 Inbox/测试看板.md",
+    "00 Templete/templater/02 手动选择模板.md",
+    "00 Templete/templater/tp-长青笔记模板.md",
+    "00 Inbox/未命名 1.md",
+    "00 Inbox/未命名 2.md",
+    "00 Inbox/Untitled 1.md",
+    "00 Inbox/Untitled 2.md",
+    "00 Inbox/未命名 3.md",
+    "00 Templete/templater/hexo.md",
+    "00 Templete/templater/01 自动选择模板.md",
+    "00 Inbox/2024-07-08.md",
+    "00 Templete/templater/tp-默认笔记模板.md",
+    "00 Templete/templater/tp-人物模板.md",
+    "00 - 临时文件夹/test.md",
+    "00 Inbox/测试白板.canvas",
+    "未命名 1.canvas"
   ]
 }

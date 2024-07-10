@@ -4,14 +4,14 @@ var cleanTitle = tp.user.getTitleSnippet(tp.file.title)
 var title = `${cleanTitle}`;
 await tp.file.rename(`${title}`);
 
-let filetype = await tp.system.suggester(["亲人", "其他"], ["亲人", "其他"], false, "Which template do you want to use?") 
-if (filetype === "亲人") { 
-myFilePath = "/50 - 人脉/01 亲人/" +  `${title}`;
+let filetype = await tp.system.suggester(["亲人", "其他"], ["亲人", "其他"], false, "Which template do you want to use?")
+if (filetype === "亲人") {
+myFilePath = "/50 - 人脉/01 亲人/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else if (filetype === "其他") { 
-myFilePath = "/50 - 人脉/02 其他/" +  `${title}`;
+} else if (filetype === "其他") {
+myFilePath = "/50 - 人脉/02 其他/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else { 
+} else {
 tp.file.cursor(1)
 }
 

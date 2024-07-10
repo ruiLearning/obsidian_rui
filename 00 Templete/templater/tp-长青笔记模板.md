@@ -3,20 +3,20 @@
 var cleanTitle = tp.user.getTitleSnippet(tp.file.title) 
 var title = `${cleanTitle}`;
 await tp.file.rename(`${title}`);
-let filetype = await tp.system.suggester(["写作学习", "软件学习", "其他学习", "临时路径"], ["写作","软件", "其他", "临时"], false, "路径放到哪里？") 
-if (filetype === "写作") { 
-myFilePath = "/30 - 学习/01 写作学习/" +  `${title}`;
+let filetype = await tp.system.suggester(["写作学习", "软件学习", "其他学习", "临时路径"], ["写作","软件", "其他", "临时"], false, "路径放到哪里？")
+if (filetype === "写作") {
+myFilePath = "/30 - 学习/01 写作学习/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else if (filetype === "软件") { 
-myFilePath = "/30 - 学习/02 软件学习/" +  `${title}`;
+} else if (filetype === "软件") {
+myFilePath = "/30 - 学习/02 软件学习/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else if (filetype === "其他") { 
-myFilePath = "/30 - 学习/03 其他/" +  `${title}`;
+} else if (filetype === "其他") {
+myFilePath = "/30 - 学习/03 其他/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else if (filetype === "临时") { 
-myFilePath = "/00 - 临时文件夹/" +  `${title}`;
+} else if (filetype === "临时") {
+myFilePath = "/00 - 临时文件夹/" + `${title}`;
 await tp.file.move(`${myFilePath}`);
-} else { 
+} else {
 tp.file.cursor(1)
 }
 

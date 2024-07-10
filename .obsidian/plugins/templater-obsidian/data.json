@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00 Templete",
+  "templates_folder": "00 Templete/templater",
   "templates_pairs": [
     [
       "",
@@ -11,12 +11,12 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "99 - obsidian/templater/script",
+  "user_scripts_folder": "00 Templete/script",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "日记",
-      "template": "99 - obsidian/templater/01 自动选择模板.md"
+      "folder": "00 Templete",
+      "template": "00 Templete/"
     }
   ],
   "syntax_highlighting": true,
@@ -24,8 +24,6 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "enable_ribbon_icon": true
 }
