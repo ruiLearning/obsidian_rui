@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6255ff29b0f4f49a",
+        "id": "f4c8f196dd37300c",
         "type": "tabs",
         "children": [
           {
-            "id": "e8166d92a6d2f49e",
+            "id": "ad7972e3b0dfdc32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Templete/templater/tp-长青笔记模板.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "914cbfc381ee777b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 - 学习/ .md",
+                "file": "00 Aban/Home.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,17 +29,10 @@
     "type": "split",
     "children": [
       {
-        "id": "30c33dad57119288",
+        "id": "1bec76e6a48105db",
         "type": "tabs",
+        "dimension": 58.85286783042394,
         "children": [
-          {
-            "id": "bdcefcd7a055ab13",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "503eedb1d3387085",
             "type": "leaf",
@@ -70,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,12 +66,36 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "264afdfb13c2b518",
+        "type": "tabs",
+        "dimension": 41.14713216957606,
+        "children": [
+          {
+            "id": "dd606eddf59e565e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "be0790ed49e0aec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Aban/Home.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 269.5
   },
   "right": {
     "id": "c92cbc9a347ed3ec",
@@ -102,26 +106,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f58fa1293b60ef6",
+            "id": "582f00a2368e549d",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4bfcbbea9e510387",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "475cd84b51d0ff0f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 - 学习/ .md",
+                "file": "00 Aban/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 - 学习/ .md",
+                "file": "00 Aban/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,18 +148,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "be0790ed49e0aec3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "30 - 学习/ .md"
               }
             }
           },
@@ -186,6 +164,37 @@
                 "searchQuery": ""
               }
             }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "381e50546edb7248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cbbacef2249d8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "475cd84b51d0ff0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "85eea136b1ef5bd6",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
           },
           {
             "id": "deca24e74eed2d1d",
@@ -195,12 +204,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,61 +221,63 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-memos:Thino": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "914cbfc381ee777b",
+  "active": "ad7972e3b0dfdc32",
   "lastOpenFiles": [
-    "ruiLearningCode/db.json",
-    "ruiLearningCode/public/img/1.jpeg",
-    "ruiLearningCode/public/2022年03月16日总结.html",
-    "ruiLearningCode/public/Markdown基础语法.html",
-    "ruiLearningCode/public/199英语2真题-安排、计划.html",
-    "ruiLearningCode/public/index.html",
-    "ruiLearningCode/public/199英语押题_鲤的英语.html",
-    "ruiLearningCode/public/199写作素材.html",
-    "ruiLearningCode/public/Markdown语法Tag.html",
-    "ruiLearningCode/public/Markdown本地图片文件夹测试.html",
-    "ruiLearningCode/public/2022年03月18日总结.html",
-    "ruiLearningCode/public/199计划_管综计划.html",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
-    "ruiLearningCode/public/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zzgj.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
-    "ruiLearningCode/public/navigation/assets/images/logos/xiami.png",
-    "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
-    "ruiLearningCode/node_modules/hexo-renderer-pug/README.md",
-    "ruiLearningCode/node_modules/hexo-butterfly-recommend/README.md",
-    "ruiLearningCode/node_modules/hexo-magnet/README.md",
-    "ruiLearningCode/node_modules/fsevents/README.md",
-    "00 - 临时文件夹/ .md",
-    "30 - 学习/ .md",
-    "30 - 学习/03 其他/ .md",
-    "50 - 人脉/02 其他/ .md",
-    "00 Inbox/未命名.md",
-    "00 Inbox/Home.md",
-    "00 Inbox/obsidian.md",
-    "00 Inbox/测试看板.md",
-    "00 Templete/templater/02 手动选择模板.md",
-    "00 Templete/templater/tp-长青笔记模板.md",
-    "00 Inbox/未命名 1.md",
-    "00 Inbox/未命名 2.md",
-    "00 Inbox/Untitled 1.md",
-    "00 Inbox/Untitled 2.md",
-    "00 Inbox/未命名 3.md",
-    "00 Templete/templater/hexo.md",
-    "00 Templete/templater/01 自动选择模板.md",
-    "00 Inbox/2024-07-08.md",
-    "00 Templete/templater/tp-默认笔记模板.md",
-    "00 Templete/templater/tp-人物模板.md",
-    "00 - 临时文件夹/test.md",
+    "00 Aban/00. Study.md",
+    "00 Aban/Home.md",
+    "生活/搞钱/搞钱.md",
+    "生活/在北京.md",
+    "00 Aban/Obsidian 插件之 Dataview - 少数派.md",
+    "00 Aban/00. Library.md",
+    "40 - Obsidian/Attachments/100911654141903_.pic.jpg",
+    "40 - Obsidian/Attachments/163221654582836_.pic.jpg",
+    "40 - Obsidian/Attachments/165511654585350_.pic.png",
+    "40 - Obsidian/Attachments/1658115786245751.mp4",
+    "40 - Obsidian/Attachments/百里守约绝影神枪.png",
+    "40 - Obsidian/Attachments/50021653820977_.pic.jpg",
+    "40 - Obsidian/Attachments/50021653820977_.jpg.jpg",
+    "40 - Obsidian/Attachments/banners/rainy-day-bird-2.gif",
+    "40 - Obsidian/Attachments/banners/rainy-day-bird.gif",
+    "40 - Obsidian/Attachments/banners/flowers.gif",
+    "40 - Obsidian/Attachments/banners/daily-note-banner.gif",
+    "40 - Obsidian/Attachments/banners",
+    "40 - Obsidian/Attachments",
+    "40 - Obsidian/Homepages/00. Homepage.md",
+    "40 - Obsidian/Homepages/00. References.md",
+    "40 - Obsidian/Homepages/00. Files.md",
+    "40 - Obsidian/Homepages/00. Dashboard.md",
+    "40 - Obsidian/Homepages",
+    "40 - Obsidian/React components/music and birthday countdown 2.md",
+    "40 - Obsidian/React components/music and birthday countdown 1.md",
+    "40 - Obsidian/React components",
+    "40 - Obsidian/Templates/New Weekly template.md",
+    "40 - Obsidian/Templates/New Daily template.md",
+    "40 - Obsidian/Templates/New Code template.md",
+    "40 - Obsidian/Templates",
+    "40 - Obsidian",
+    "00 Aban/00. Homepage.md",
+    "ruiLearningCode/source/_posts/weread/定投十年财务自由.md",
+    "ruiLearningCode/source/_posts/weread/认知觉醒：开启自我改变的原动力.md",
+    "ruiLearningCode/source/_posts/weread/吞噬星空.txt.md",
+    "ruiLearningCode/source/_posts/weread/乌合之众：大众心理研究（畅销125年纪念版）【群体心理学开山之作，社会心理学必读经典，当之无愧的百年经典名著。完整全译本，流畅翻译，精美插图，新锐设计】.md",
+    "ruiLearningCode/source/_posts/weread/疯狂的尿酸：不止是痛风.md",
+    "ruiLearningCode/source/_posts/weread/谷物大脑.md",
+    "ruiLearningCode/source/_posts/weread/xianni_ergen.txt.md",
+    "ruiLearningCode/source/_posts/weread/空腹力革命.md",
+    "ruiLearningCode/source/_posts/weread/断舍离.md",
+    "ruiLearningCode/source/_posts/weread/减肥不是挨饿，而是与食物合作.md",
+    "ruiLearningCode/source/_posts/weread",
+    "ruiLearningCode/public/CA-RunToC.html",
+    "ruiLearningCode/public/2022年05月第四周总结.html",
     "00 Inbox/测试白板.canvas",
     "未命名 1.canvas"
   ]

@@ -1,17 +1,116 @@
 {
   "choices": [
     {
-      "id": "5096732d-e4da-4c6c-b4b1-36658f69f4bf",
-      "name": "hexo",
-      "type": "Macro",
+      "id": "881e66f4-737d-4bff-a753-b4dd5a47b08f",
+      "name": "✂️Captures",
+      "type": "Multi",
       "command": true,
-      "macroId": "79330132-c5b3-4d87-8bb6-f44af187cdbf"
+      "choices": [
+        {
+          "id": "d1a87f83-7a04-47df-afb0-9dd27127f169",
+          "name": "todo",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "00 Aban/todo/{{DATE:YYYY-MM-DD}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "\\n - [ ] {{VALUE}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## todo",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "fdbd7f5b-3d47-4dbf-88ef-53e19df9abd7",
+          "name": "闪念",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "00 Aban/闪念/{{DATE:YYYYY-MM-DD_dddd}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "\\n- {{DATE:YYYY-MM-DD HH:mm}} {{VALUE}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## 闪念",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "7709b52e-f10a-452a-94e6-ee9784213ea3",
+          "name": "TP-travel(请输入旅游地，如:北京_天安门)",
+          "type": "Template",
+          "command": true,
+          "templatePath": "00 Templete/templater/TP-travel.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
     }
   ],
   "macros": [
     {
-      "name": "hexo",
-      "id": "79330132-c5b3-4d87-8bb6-f44af187cdbf",
+      "name": "Ban",
+      "id": "2a3e7f35-e6b7-45ca-bb9b-eea60139d48c",
       "commands": [],
       "runOnStartup": false
     }

@@ -3,13 +3,17 @@
   "templates_folder": "00 Templete/templater",
   "templates_pairs": [
     [
+      "getWeather",
+      "curl wttr.in/Beijing?format=4"
+    ],
+    [
       "",
       ""
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "00 Templete/script",
   "enable_folder_templates": true,

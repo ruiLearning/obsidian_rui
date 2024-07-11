@@ -1,7 +1,7 @@
 {
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 Inbox",
+  "newFileFolderPath": "00 Aban",
   "attachmentFolderPath": "ruiLearningCode/source/_obsidian",
   "vimMode": true,
   "strictLineBreaks": true,
@@ -19,5 +19,6 @@
     "ruiLearningCode/token/",
     "ruiLearningCode/node_modules/"
   ],
-  "showRibbon": true
+  "showRibbon": true,
+  "showUnsupportedFiles": true
 }

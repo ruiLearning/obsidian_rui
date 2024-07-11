@@ -1,6 +1,5 @@
 [
   "calendar",
-  "recent-files-obsidian",
   "obsidian-mind-map",
   "file-explorer-note-count",
   "obsidian-tasks-plugin",
@@ -34,5 +33,13 @@
   "convert-url-to-iframe",
   "obsidian-annotator",
   "obsidian-charts",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-local-images",
+  "obsidian-shellcommands",
+  "homepage",
+  "obsidian-banners",
+  "obsidian-minimal-settings",
+  "recent-files-obsidian",
+  "obsidian-advanced-uri",
+  "obsidian-admonition"
 ]

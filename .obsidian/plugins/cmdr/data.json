@@ -3,7 +3,15 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any",
+      "color": "#ec0909"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
@@ -13,11 +21,27 @@
       "id": "editor:toggle-source",
       "icon": "lucide-code-2",
       "name": "切换实时阅览/源码模式",
-      "mode": "any"
+      "mode": "any",
+      "color": "#2ce284"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any",
+      "color": "#fa0505"
     }
   ],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any",
+      "color": "#e70d0d"
+    }
+  ],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
