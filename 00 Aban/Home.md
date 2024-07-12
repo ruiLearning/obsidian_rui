@@ -5,7 +5,7 @@ banner_x: 0.62858
 banner_y: 0.38648
 status: 进行中
 target: 10000
-banner: "40 - Obsidian/Attachments/banners/flowers.gif"
+banner: "https://api.dujin.org/bing/1920.php"
 banner_icon:
 ---
 

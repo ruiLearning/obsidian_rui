@@ -38,8 +38,10 @@
   "obsidian-shellcommands",
   "homepage",
   "obsidian-banners",
-  "obsidian-minimal-settings",
   "recent-files-obsidian",
   "obsidian-advanced-uri",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "buttons",
+  "obsidian-style-settings",
+  "workspaces-plus"
 ]

@@ -20,5 +20,6 @@
     "ruiLearningCode/node_modules/"
   ],
   "showRibbon": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "Home",
       "path": "00 Aban/Home.md"
+    },
+    {
+      "basename": "tp",
+      "path": "50-Inbox/Logs/tp.md"
+    },
+    {
+      "basename": "项目追踪（完成的字数和任务）",
+      "path": "00 Aban/项目追踪（完成的字数和任务）.md"
+    },
+    {
+      "basename": "任务卡片-dataview 任务查询举例",
+      "path": "00 Aban/任务卡片-dataview 任务查询举例.md"
+    },
+    {
+      "basename": "README",
+      "path": "node_modules/micromatch/README.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "ObsidianTemplate",
+      "path": "ruiLearningCode/source/_posts/tech/ObsidianTemplate.md"
+    },
+    {
+      "basename": "vim相关",
+      "path": "ruiLearningCode/source/_posts/tech/vim相关.md"
+    },
+    {
+      "basename": "Obsidian大纲",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
+    },
+    {
+      "basename": "FastStart-StartupScript",
+      "path": "88-Template/FastStart-StartupScript.md"
+    },
+    {
+      "basename": "打开文档的第一个外链接",
+      "path": "88-Template/打开文档的第一个外链接.md"
+    },
+    {
+      "basename": "常用工具react",
+      "path": "88-Template/常用工具react.md"
+    },
+    {
+      "basename": "00. Homepage",
+      "path": "00 Aban/00. Homepage.md"
     },
     {
       "basename": "00. Study",
@@ -25,58 +77,6 @@
       "path": "00 Aban/00. Library.md"
     },
     {
-      "basename": "100911654141903_.pic",
-      "path": "40 - Obsidian/Attachments/100911654141903_.pic.jpg"
-    },
-    {
-      "basename": "163221654582836_.pic",
-      "path": "40 - Obsidian/Attachments/163221654582836_.pic.jpg"
-    },
-    {
-      "basename": "165511654585350_.pic",
-      "path": "40 - Obsidian/Attachments/165511654585350_.pic.png"
-    },
-    {
-      "basename": "1658115786245751",
-      "path": "40 - Obsidian/Attachments/1658115786245751.mp4"
-    },
-    {
-      "basename": "百里守约绝影神枪",
-      "path": "40 - Obsidian/Attachments/百里守约绝影神枪.png"
-    },
-    {
-      "basename": "50021653820977_.pic",
-      "path": "40 - Obsidian/Attachments/50021653820977_.pic.jpg"
-    },
-    {
-      "basename": "50021653820977_.jpg",
-      "path": "40 - Obsidian/Attachments/50021653820977_.jpg.jpg"
-    },
-    {
-      "basename": "rainy-day-bird-2",
-      "path": "40 - Obsidian/Attachments/banners/rainy-day-bird-2.gif"
-    },
-    {
-      "basename": "rainy-day-bird",
-      "path": "40 - Obsidian/Attachments/banners/rainy-day-bird.gif"
-    },
-    {
-      "basename": "flowers",
-      "path": "40 - Obsidian/Attachments/banners/flowers.gif"
-    },
-    {
-      "basename": "daily-note-banner",
-      "path": "40 - Obsidian/Attachments/banners/daily-note-banner.gif"
-    },
-    {
-      "basename": "book-banner",
-      "path": "40 - Obsidian/Attachments/banners/book-banner.gif"
-    },
-    {
-      "basename": "00. Homepage",
-      "path": "00 Aban/00. Homepage.md"
-    },
-    {
       "basename": "定投十年财务自由",
       "path": "ruiLearningCode/source/_posts/weread/定投十年财务自由.md"
     },
@@ -85,20 +85,12 @@
       "path": "ruiLearningCode/source/_posts/tech/Obsidian 主页搭建.md"
     },
     {
-      "basename": "ObsidianTemplate",
-      "path": "ruiLearningCode/source/_posts/tech/ObsidianTemplate.md"
-    },
-    {
       "basename": "Markdown基础语法",
       "path": "ruiLearningCode/source/_posts/tech/Markdown基础语法.md"
     },
     {
       "basename": "20240708_周一",
       "path": "日记/20240708_周一.md"
-    },
-    {
-      "basename": "Obsidian大纲",
-      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
     },
     {
       "basename": "tp-默认笔记模板",
@@ -155,50 +147,6 @@
     {
       "basename": "Markdown网页剪藏",
       "path": "ruiLearningCode/source/_posts/tech/Markdown网页剪藏.md"
-    },
-    {
-      "basename": "Markdown页面UI-Template",
-      "path": "ruiLearningCode/source/_posts/tech/Markdown页面UI-Template.md"
-    },
-    {
-      "basename": "tp-物品模板",
-      "path": "00 Templete/templater/tp-物品模板.md"
-    },
-    {
-      "basename": "北京_天安门",
-      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京_天安门.md"
-    },
-    {
-      "basename": "北京-昌平",
-      "path": "ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md"
-    },
-    {
-      "basename": "tp-长青笔记模板",
-      "path": "00 Templete/templater/tp-长青笔记模板.md"
-    },
-    {
-      "basename": "tp-人物模板",
-      "path": "00 Templete/templater/tp-人物模板.md"
-    },
-    {
-      "basename": "01 自动选择模板",
-      "path": "00 Templete/templater/01 自动选择模板.md"
-    },
-    {
-      "basename": "02 手动选择模板",
-      "path": "00 Templete/templater/02 手动选择模板.md"
-    },
-    {
-      "basename": "03 选择学习相关模板",
-      "path": "00 Templete/templater/03 选择学习相关模板.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "00 Templete/templater/日记模版.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "00 Inbox/obsidian.md"
     }
   ],
   "omittedPaths": [],

@@ -3,15 +3,7 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [
-    {
-      "id": "file-explorer:reveal-active-file",
-      "icon": "lucide-navigation",
-      "name": "文件列表: 在文件列表中显示当前文件",
-      "mode": "any",
-      "color": "#ec0909"
-    }
-  ],
+  "fileMenu": [],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
