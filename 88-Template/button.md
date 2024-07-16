@@ -145,6 +145,14 @@ class blank
 ^button-richeng
 
 ```button
+name 🌈 游玩
+type command
+action QuickAdd: 创建游玩记录
+class grad_button g_purple
+```
+^button-travel
+
+```button
 name 💕 随笔
 type command
 action QuickAdd: 随笔记录

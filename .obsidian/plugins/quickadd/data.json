@@ -6,7 +6,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "20-Diary/{{DATE:YYYY-MM-DD}}.md",
+      "captureTo": "20-Diary/{{DATE:YYYY-MM-DD_ddd}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
@@ -282,6 +282,34 @@
       "type": "Macro",
       "command": true,
       "macroId": "e0714193-d2b5-41c5-b358-92e6f9914726"
+    },
+    {
+      "id": "5eec5bb4-b631-40cb-8423-ad3eba7104f6",
+      "name": "创建游玩记录",
+      "type": "Template",
+      "command": true,
+      "templatePath": "88-Template/tp/tp-游玩模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [

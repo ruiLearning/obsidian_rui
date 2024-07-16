@@ -4,13 +4,14 @@
 let banner= await tp.user.getrandomImage("99-Attachment/banner")
 let weather = await tp.user.getweather("")
 -%>
-UID: <% tp.date.now("YYYYMMDDHHmm")%> 
+UID: <% tp.date.now("YYYYMMDDHHmm_ddd")%> 
 alias:
 banner: <% banner %>
 ```js quickadd
 const suggester = await this.quickAddApi.suggester(["开心😀", "低落😐", "疲惫😪","爽😎","平静😶"], ["😀", "😐", "😪", "😎", "😶"]) 
 return `banner_icon: ${suggester}`;
 ```
+banner: <% banner %>
 Banner style: Solid
 cssclass: mynote,noyaml
 ---

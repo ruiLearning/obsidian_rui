@@ -8,6 +8,7 @@ obsidianUIMode: preview
 - **[[50-Inbox]]**
 	- **Logs**
 		- [[sss]]
+		- [[test]]
 	- **People**
 		- [[李四]]
 	- **Study**

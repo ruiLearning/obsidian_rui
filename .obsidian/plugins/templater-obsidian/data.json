@@ -1,6 +1,6 @@
 {
   "command_timeout": 6,
-  "templates_folder": "88-Template",
+  "templates_folder": "88-Template/tp",
   "templates_pairs": [
     [
       "tianqi",
@@ -24,6 +24,7 @@
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "88-Template/tp/tp_foldermoc-Include-subfolders.md",
     "88-Template/tp/tp-插件启停模板.md"

@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian大纲",
-      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
+      "basename": "呼伦贝尔",
+      "path": "10-Live/SelfDriving/呼伦贝尔.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "tp-游玩模板",
+      "path": "88-Template/tp/tp-游玩模板.md"
+    },
+    {
+      "basename": "tp-人物模板",
+      "path": "88-Template/tp/tp-人物模板.md"
+    },
+    {
+      "basename": "TP-travel",
+      "path": "88-Template/tp/TP-travel.md"
+    },
+    {
+      "basename": "travel",
+      "path": "88-Template/tp/travel.md"
+    },
+    {
+      "basename": "tp-日记模板-心情",
+      "path": "88-Template/tp/tp-日记模板-心情.md"
+    },
+    {
+      "basename": "tp-日记模板-日历",
+      "path": "88-Template/tp/tp-日记模板-日历.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "88-Template/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-流水账模板",
+      "path": "88-Template/tp/tp-流水账模板.md"
+    },
+    {
+      "basename": "tp-插件启停模板",
+      "path": "88-Template/tp/tp-插件启停模板.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "88-Template/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "tp-笔记分类模板",
+      "path": "88-Template/tp/tp-笔记分类模板.md"
     },
     {
       "basename": "button",
       "path": "88-Template/button.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "88-Template/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "88-Template/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "20-Diary",
+      "path": "20-Diary/20-Diary.md"
+    },
+    {
+      "basename": "2024-07-16_周二",
+      "path": "20-Diary/2024-07-16_周二.md"
+    },
+    {
+      "basename": "tp_index",
+      "path": "88-Template/tp/tp_index.md"
+    },
+    {
+      "basename": "test",
+      "path": "50-Inbox/Logs/test.md"
+    },
+    {
+      "basename": "tp_foldermoc-Include-subfolders",
+      "path": "88-Template/tp/tp_foldermoc-Include-subfolders.md"
+    },
+    {
+      "basename": "WeekPlan_H5",
+      "path": "88-Template/tp/WeekPlan_H5.md"
+    },
+    {
+      "basename": "Front-matter",
+      "path": "88-Template/tp/Front-matter.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "query",
+      "path": "20-Diary/query.md"
+    },
+    {
+      "basename": "当月笔记串联",
+      "path": "20-Diary/当月笔记串联.md"
+    },
+    {
+      "basename": "Obsidian大纲",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
     },
     {
       "basename": "ObsidianTemplate",
@@ -15,18 +115,6 @@
     {
       "basename": "Obsidian快捷键一览表",
       "path": "ruiLearningCode/source/_posts/tech/Obsidian快捷键一览表.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 Aban/Home.md"
     },
     {
       "basename": "测试看板",
@@ -41,14 +129,6 @@
       "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
     },
     {
-      "basename": "20-Diary",
-      "path": "20-Diary/20-Diary.md"
-    },
-    {
-      "basename": "tp-笔记分类模板",
-      "path": "88-Template/tp/tp-笔记分类模板.md"
-    },
-    {
       "basename": "tte",
       "path": "50-Inbox/Study/tte.md"
     },
@@ -61,32 +141,12 @@
       "path": "50-Inbox/Logs/sss.md"
     },
     {
-      "basename": "tp-笔记收集箱",
-      "path": "88-Template/tp/tp-笔记收集箱.md"
-    },
-    {
       "basename": "memos模板",
       "path": "20-Diary/memos模板.md"
     },
     {
-      "basename": "2024-07-16",
-      "path": "20-Diary/2024-07-16.md"
-    },
-    {
-      "basename": "当月笔记串联",
-      "path": "20-Diary/当月笔记串联.md"
-    },
-    {
       "basename": "搞钱",
       "path": "00 Aban/生活/搞钱/搞钱.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "20-Diary/任务看板.md"
-    },
-    {
-      "basename": "tp-日记模板-心情",
-      "path": "88-Template/tp/tp-日记模板-心情.md"
     },
     {
       "basename": "测试白板",
@@ -103,46 +163,6 @@
     {
       "basename": "《理解海德格尔》",
       "path": "30-Reading/《理解海德格尔》.md"
-    },
-    {
-      "basename": "《大话数据结构》",
-      "path": "30-Reading/《大话数据结构》.md"
-    },
-    {
-      "basename": "《从零开始的女性主义》",
-      "path": "30-Reading/《从零开始的女性主义》.md"
-    },
-    {
-      "basename": "tp-movie-douban",
-      "path": "88-Template/tp/tp-movie-douban.md"
-    },
-    {
-      "basename": "tp-movie",
-      "path": "88-Template/tp/tp-movie.md"
-    },
-    {
-      "basename": "🎵Music",
-      "path": "88-Template/🎵Music.md"
-    },
-    {
-      "basename": "示例库内置的插件列表",
-      "path": "88-Template/示例库内置的插件列表.md"
-    },
-    {
-      "basename": "Calendar2021-2022",
-      "path": "88-Template/Calendar2021-2022.md"
-    },
-    {
-      "basename": "2024-07-10",
-      "path": "00 Aban/todo/2024-07-10.md"
-    },
-    {
-      "basename": "tp-插件启停模板",
-      "path": "88-Template/tp/tp-插件启停模板.md"
-    },
-    {
-      "basename": "tp_foldermoc-Include-subfolders",
-      "path": "88-Template/tp/tp_foldermoc-Include-subfolders.md"
     }
   ],
   "omittedPaths": [],

@@ -1,3 +1,15 @@
+---
+UID: 20240716163127 
+aliases: 
+tags: 
+source: 
+cssclass: 
+created: 2024-07-16
+---
+
+## ✍内容
+
+
 <%-* /* 如果笔记的名字中包含“-”则去除“-”与之前的文字 */ -%>
 <%-* 
 if (tp.file.title.includes("-")){

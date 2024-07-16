@@ -1,11 +1,6 @@
 {
   "searchViewState": {
-    "query": "",
-    "matchingCase": false,
-    "explainSearch": false,
-    "collapseAll": false,
-    "extraContext": false,
-    "sortOrder": "alphabetical"
+    "query": "tag:#旅行账单"
   },
   "showFilePath": false
 }
