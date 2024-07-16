@@ -208,7 +208,8 @@
         "direction": "horizontal",
         "width": 265
       },
-      "active": "80430a4f104c0c57"
+      "active": "80430a4f104c0c57",
+      "workspaces-plus:settings-v1": {}
     },
     "kanban": {
       "main": {
@@ -968,8 +969,9 @@
           "obsidian-memos:Memos": false
         }
       },
-      "active": "944517de283150b7"
+      "active": "944517de283150b7",
+      "workspaces-plus:settings-v1": {}
     }
   },
-  "active": "Canvas"
+  "active": "Home"
 }

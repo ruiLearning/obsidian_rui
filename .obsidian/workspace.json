@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "c2bf48baebb46ed7",
+    "id": "e8b4ea94b39a8520",
     "type": "split",
     "children": [
       {
-        "id": "cae8e51314ae71f8",
+        "id": "801ae3b03a6db76f",
         "type": "tabs",
         "children": [
           {
-            "id": "9e50cda283ba62ea",
+            "id": "1962d3336f56ad3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "88-Template/home.md",
+                "file": "00 Aban/Obsidian 插件之 Dataview - 少数派.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -26,16 +26,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54dfc1820457d823",
+    "id": "687357708cbc920f",
     "type": "split",
     "children": [
       {
-        "id": "1bec76e6a48105db",
+        "id": "4bc1edcafd063cfb",
         "type": "tabs",
-        "dimension": 58.85286783042394,
+        "dimension": 68.13048933500627,
         "children": [
           {
-            "id": "503eedb1d3387085",
+            "id": "37c8f55a8ef7a09c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,13 +45,13 @@
             }
           },
           {
-            "id": "bc3f114f3cadb4de",
+            "id": "b3290ae399933a0b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "view-actions",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -60,55 +60,53 @@
             }
           },
           {
-            "id": "6e535558e26855f0",
+            "id": "3d21402f76dc34c3",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2c2f4dfc8473d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           }
         ]
       },
       {
-        "id": "264afdfb13c2b518",
+        "id": "d877e8285f98a38a",
         "type": "tabs",
-        "dimension": 41.14713216957606,
+        "dimension": 31.869510664993726,
         "children": [
           {
-            "id": "dd606eddf59e565e",
+            "id": "b37bc3d287f74512",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "be0790ed49e0aec3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "88-Template/home.md"
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 276.9945435523987
   },
   "right": {
-    "id": "c92cbc9a347ed3ec",
+    "id": "4e390742ffc29613",
     "type": "split",
     "children": [
       {
-        "id": "562452e6c1415509",
+        "id": "d4c25b22f0c7d5f0",
         "type": "tabs",
-        "dimension": 39.029535864978904,
+        "dimension": 42.571127502634354,
         "children": [
           {
-            "id": "582f00a2368e549d",
+            "id": "ca4e910af4602420",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -116,15 +114,33 @@
             }
           },
           {
-            "id": "b396d9cb1ce5ebdb",
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
+              }
+            }
+          },
+          {
+            "id": "83061aceea29f566",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "041c78328387b373",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "88-Template/home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "00 Aban/Obsidian 插件之 Dataview - 少数派.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
@@ -133,175 +149,124 @@
             }
           },
           {
-            "id": "7f2c0ffe80843c05",
+            "id": "dc4a81bfd6624166",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "88-Template/home.md",
+                "file": "00 Aban/Obsidian 插件之 Dataview - 少数派.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a2bdddc531f4cbfa",
+            "id": "b2ae90cb6049dbe9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "d71aa842aa014064",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "872aa617e4f34f87",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "88-Template/home.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
-        "id": "381e50546edb7248",
+        "id": "0b3485207df574dd",
         "type": "tabs",
-        "dimension": 60.970464135021096,
+        "dimension": 57.428872497365646,
         "children": [
           {
-            "id": "503a11b3fddefb2a",
+            "id": "8851ccb0aa4e524a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "88-Template/常用工具.md",
-                "mode": "source",
-                "backlinks": false,
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "69cbbacef2249d8f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "475cd84b51d0ff0f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "85eea136b1ef5bd6",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "deca24e74eed2d1d",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
+              },
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-memos:Thino": false,
-      "homepage:Open homepage": false
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "9e50cda283ba62ea",
+  "active": "1962d3336f56ad3f",
   "lastOpenFiles": [
-    "00 Aban/Home.md",
-    "50-Inbox/Logs/tp.md",
-    "00 Aban/项目追踪（完成的字数和任务）.md",
-    "00 Inbox/未命名.md",
-    "88-Template/home.md",
-    "00 Aban/任务卡片-dataview 任务查询举例.md",
-    "node_modules/micromatch/README.md",
-    "00 Aban/home.md",
+    "00 Aban/obsidian.md",
+    "00 Aban/闪念/02024-07-10_星期三.md",
+    "00 Aban/测试白板.canvas",
+    "99-Attachment/}FP`%@6]P61LO)Y$`C11HBP.png",
+    "30-Reading/《笔醒山河》.md",
+    "99-Attachment/YX2S5G0%`W6B~NOTIV_0X~D.png",
+    "99-Attachment/Pasted image 20220126210309.png",
+    "99-Attachment/Pasted image 20220424111837.png",
+    "99-Attachment/Pasted image 20221103192124.png",
+    "99-Attachment/banner/蓝山背景.jpg",
+    "99-Attachment/banner/wallhaven-kw96x7.jpg",
+    "99-Attachment/banner/wallhaven-zx89ew.jpg",
+    "99-Attachment/banner/wallhaven-0po71e.jpg",
+    "99-Attachment/banner/v2-4b004937cb577df39e424172ee476d1b_r.jpg",
+    "99-Attachment/banner",
+    "99-Attachment/99-Attachment.md",
+    "99-Attachment/11.excalidraw.md",
+    "99-Attachment/memos.url",
+    "99-Attachment",
+    "30-Reading/《镰刀与城市》.md",
+    "30-Reading/《理解海德格尔》.md",
+    "30-Reading/《大话数据结构》.md",
+    "30-Reading/《从零开始的女性主义》.md",
+    "30-Reading/让子弹飞（本地封面图片测试）.md",
+    "30-Reading/悬崖之上.md",
+    "30-Reading/《如何阅读尼采》.md",
+    "20-Diary/2024-07-16.md",
     "88-Template/常用工具.md",
-    "88-Template/彩色时钟.md",
-    "ruiLearningCode/source/_posts/tech/ObsidianTemplate.md",
-    "20240712142113.md",
-    "ruiLearningCode/source/_posts/tech/vim相关.md",
-    "ruiLearningCode/source/_posts/tech/Obsidian大纲.md",
-    "88-Template/FastStart-StartupScript.md",
-    "88-Template/打开文档的第一个外链接.md",
-    "88-Template/常用工具react.md",
-    "88-Template/FastStart-GenerateListOfInstalledPlugins.md",
-    "88-Template/EnablepluginList/View+.md",
-    "88-Template/EnablepluginList/EnablepluginList.md",
-    "88-Template/EnablepluginList/Table+.md",
-    "88-Template/EnablepluginList/Required+.md",
-    "88-Template/EnablepluginList/Edit+.md",
-    "88-Template/EnablepluginList",
-    "88-Template/chinese_stopwords.md",
-    "88-Template/Calendar2021-2022.md",
-    "88-Template/button.md",
-    "50-Inbox/Logs",
-    "50-Inbox",
-    "88-Template/script/template/taskprogress.js",
-    "88-Template/script/template/getrandomImage.js",
-    "88-Template/script/template/getweather.js",
-    "88-Template/script/template/getTitleSnippet.js",
-    "88-Template/script/tasksCalendar/view.js",
-    "88-Template/script/tasksCalendar/view.css",
-    "88-Template/script/notesList/view.js",
-    "40 - Obsidian/Attachments/100911654141903_.pic.jpg",
-    "40 - Obsidian/Attachments/163221654582836_.pic.jpg",
-    "40 - Obsidian/Attachments/165511654585350_.pic.png",
-    "40 - Obsidian/Attachments/百里守约绝影神枪.png",
-    "40 - Obsidian/Attachments/50021653820977_.pic.jpg",
-    "40 - Obsidian/Attachments/50021653820977_.jpg.jpg",
-    "40 - Obsidian/Attachments/banners/rainy-day-bird-2.gif",
-    "40 - Obsidian/Attachments/banners/rainy-day-bird.gif",
-    "40 - Obsidian/Attachments/banners/flowers.gif",
-    "40 - Obsidian/Attachments/banners/daily-note-banner.gif",
-    "00 Inbox/测试白板.canvas",
+    "20-Diary",
+    "00 Aban/20-Diary/00 Inbox/00 Inbox.md",
+    "00 Aban/测试看板.md",
+    "20-Diary/任务看板.md",
+    "00 Aban/20-Diary/20-Diary.md",
+    "00 Aban/20-Diary/00 Inbox",
+    "00 Aban/20-Diary",
+    "20-Diary/20-Diary.md",
+    "20-Diary/2024-07-15.md",
+    "00 Aban/Obsidian 插件之 Dataview - 少数派.md",
+    "88-Template/home.md",
+    "00 Aban/Home.md",
+    "30-Reading/三体（全集）.md",
+    "30-Reading/三体.md",
+    "88-Template/tp/tp-movie-douban.md",
+    "88-Template/script/getTitleSnippet.js",
+    "88-Template/templater",
+    "88-Template/script/SwitcLightdark.js",
+    "88-Template/script/dv_weatherView.js",
     "未命名 1.canvas"
   ]
 }

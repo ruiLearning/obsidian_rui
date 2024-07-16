@@ -47,10 +47,11 @@
     "【Memos】Popover",
     "【Query】keep-live",
     "custom-admonitions.c9c6cb",
-    "custom-admonitions.35eba8"
+    "custom-admonitions.35eba8",
+    "【背景】默认笔记背景"
   ],
   "translucency": false,
-  "nativeMenus": false,
+  "nativeMenus": true,
   "baseFontSizeAction": false,
   "showViewHeader": true
 }

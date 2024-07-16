@@ -34,8 +34,77 @@ var CanvasPresentation = class extends import_obsidian.Plugin {
     this.currentSlide = [];
     this.currentSlideNum = 0;
     this.direction = "next";
+    this.selectedNodeSet = /* @__PURE__ */ new Set();
   }
   async onload() {
+    this.addCommand({
+      id: "next-group-in-viewport",
+      name: "Next Group In ViewPort",
+      checkCallback: (checking) => {
+        const canvasView = this.app.workspace.getActiveViewOfType(import_obsidian.ItemView);
+        if ((canvasView == null ? void 0 : canvasView.getViewType()) === "canvas") {
+          if (!checking) {
+            const canvas = canvasView.canvas;
+            const groups = this.getAllGroupNodeInViewPort(canvasView);
+            if (canvas.selection.size === 0) {
+              canvas.deselectAll();
+              canvas.select(groups[0]);
+              canvas.zoomToSelection();
+              return;
+            }
+            const selectedNode = canvas.selection.entries().next().value[1];
+            const restGroups = groups.filter((group) => {
+              return group.x >= selectedNode.x && group.id !== selectedNode.id;
+            });
+            if (restGroups.length === 0) {
+              canvas.deselectAll();
+              canvas.select(groups[0]);
+              canvas.zoomToSelection();
+              return;
+            }
+            canvas.deselectAll();
+            canvas.select(restGroups[0]);
+            canvas.zoomToSelection();
+            return;
+          }
+          return true;
+        }
+      }
+    });
+    this.addCommand({
+      id: "previous-group-in-viewport",
+      name: "Previous Group In ViewPort",
+      checkCallback: (checking) => {
+        const canvasView = this.app.workspace.getActiveViewOfType(import_obsidian.ItemView);
+        if ((canvasView == null ? void 0 : canvasView.getViewType()) === "canvas") {
+          if (!checking) {
+            const canvas = canvasView.canvas;
+            const groups = this.getAllGroupNodeInViewPort(canvasView);
+            if (canvas.selection.size === 0) {
+              canvas.deselectAll();
+              canvas.select(groups[groups.length - 1]);
+              canvas.zoomToSelection();
+              return;
+            }
+            const selectedNode = canvas.selection.entries().next().value[1];
+            const restGroups = groups.filter((group) => {
+              return group.x <= selectedNode.x && group.id !== selectedNode.id;
+            });
+            if (restGroups.length === 0) {
+              canvas.deselectAll();
+              canvas.select(groups[groups.length - 1]);
+              canvas.zoomToSelection();
+              return;
+            }
+            canvas.deselectAll();
+            canvas.select(restGroups[restGroups.length - 1]);
+            canvas.zoomToSelection();
+            return;
+          }
+          return true;
+        }
+      }
+    });
     this.addCommand({
       id: "mark-slide-number",
       name: "Mark Slide Number",
@@ -64,7 +133,27 @@ var CanvasPresentation = class extends import_obsidian.Plugin {
             let node = findNode(nodes);
             if (!node) {
               let selectionArray = Array.from(canvas.selection);
-              node = canvas.createTextNode({ x: -200, y: -200 }, { height: 200, width: 200 }, true);
+              if (!(0, import_obsidian.requireApiVersion)("1.1.10"))
+                node = canvas.createTextNode({ x: -200, y: -200 }, { height: 200, width: 200 }, true);
+              else {
+                node = canvas.createTextNode({
+                  pos: {
+                    x: -200,
+                    y: -200,
+                    height: 200,
+                    width: 200
+                  },
+                  text: "",
+                  focus: false,
+                  save: true,
+                  size: {
+                    height: 200,
+                    width: 200,
+                    x: -200,
+                    y: -200
+                  }
+                });
+              }
               canvas.deselectAll();
               selectionArray.forEach((item) => {
                 const node2 = canvas.nodes.get(item.id);
@@ -187,6 +276,30 @@ var CanvasPresentation = class extends import_obsidian.Plugin {
         }
       }
     });
+  }
+  getAllGroupNode(canvasView) {
+    const canvas = canvasView.canvas;
+    const groups = Array.from(canvas.nodes);
+    const groupsArray = [];
+    groups.forEach((group) => {
+      var _a;
+      if (((_a = group[1]) == null ? void 0 : _a.renderedZIndex) === -1)
+        groupsArray.push(group[1]);
+    });
+    groupsArray.sort((a, b) => a.x - b.x);
+    return groupsArray;
+  }
+  getAllGroupNodeInViewPort(canvasView) {
+    const canvas = canvasView.canvas;
+    const groups = canvas.getViewportNodes();
+    const groupsArray = [];
+    groups.forEach((group) => {
+      if ((group == null ? void 0 : group.renderedZIndex) === -1)
+        groupsArray.push(group);
+    });
+    console.log(groupsArray);
+    groupsArray.sort((a, b) => a.x - b.x);
+    return groupsArray;
   }
   onunload() {
   }

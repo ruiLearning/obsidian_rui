@@ -32,9 +32,6 @@ banner_icon:
 ```
 
 %%问候和天气数据 %%
-%% 动画猫 %%
-```jsx::AnimationCat
-```
 %% --文字版天气加图标--开始 %%
 
 >[!note|noborder banner]  &nbsp;
@@ -56,7 +53,6 @@ dv.paragraph(desc + `<img style="margin-top:-50px;vertical-align: bottom; -webki
 >```
 
 
-
 %% ---文字版天气加图标--结束 %%
 
 ```ad-blank
@@ -69,7 +65,7 @@ dv.paragraph(desc + `<img style="margin-top:-50px;vertical-align: bottom; -webki
 
 ````ad-grid
 > [!profile-card|cards]  `button-refreshhomepage1`
-> ***快乐摸鱼又一天***
+> ***加油呀💪🏻***
 > **瞅瞅你的笔记写了多少篇**
 >>[!profile-card-inf|noborder]
 >>```dataviewjs
@@ -307,26 +303,7 @@ dv.paragraph(
 
 
 
-```
-banner1
----
-cssclasses:
-  - myhome
-banner_x: 0.62858
-banner_y: 0.38648
-status: 进行中
-target: 10000
-banner: "40 - Obsidian/Attachments/banners/flowers.gif"
-banner_icon:
----
 
-banner2
----
-banner: "https://api.dujin.org/bing/1920.php"
-cssclass: fullwidth,noyaml,noscroll,myhome
-obsidianUIMode: preview
----
-```
 
 
 ---
@@ -411,3 +388,14 @@ limit 5
 - [运行博客](obsidian://open?file=ruiLearningCode/RunBlog.sh)
 
 
+> [!blank] 
+
+> [timeline311::timeline]
+```ad-flex
+(Weather::郑州 🌥阴，21~27℃ 优 清风徐徐🌔)
+> [!infobox|noicon]- 🔖 当天创建的文件
+> ```dataviewjs 
+const filename=dv.current().file.name;
+dv.list(dv.pages().where(p => p.file.cday.toISODate() === filename).sort(p => p.file.ctime, 'desc').file.link) 
+>```
+```
