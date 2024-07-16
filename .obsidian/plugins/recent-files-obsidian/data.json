@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "呼伦贝尔",
-      "path": "10-Live/SelfDriving/呼伦贝尔.md"
+      "basename": "50-Inbox-Index",
+      "path": "50-Inbox/50-Inbox-Index.md"
+    },
+    {
+      "basename": "20-Diary-Index",
+      "path": "20-Diary/20-Diary-Index.md"
+    },
+    {
+      "basename": "10-Live-Index",
+      "path": "10-Live/10-Live-Index.md"
+    },
+    {
+      "basename": "88-Template-Index",
+      "path": "88-Template/tp/88-Template-Index.md"
+    },
+    {
+      "basename": "Website",
+      "path": "50-Inbox/Website/Website.md"
+    },
+    {
+      "basename": "历史上的今天",
+      "path": "50-Inbox/Website/历史上的今天.md"
+    },
+    {
+      "basename": "20221231235546",
+      "path": "50-Inbox/Study/20221231235546.md"
+    },
+    {
+      "basename": "test",
+      "path": "50-Inbox/Logs/test.md"
+    },
+    {
+      "basename": "20240716_周二",
+      "path": "20-Diary/calendar/20240716_周二.md"
+    },
+    {
+      "basename": "tp-游玩模板",
+      "path": "88-Template/tp/tp-游玩模板.md"
     },
     {
       "basename": "常用工具",
       "path": "88-Template/常用工具.md"
     },
     {
-      "basename": "tp-游玩模板",
-      "path": "88-Template/tp/tp-游玩模板.md"
+      "basename": "Drawing 2024-07-16 19.35.06.excalidraw",
+      "path": "00 Aban/Excalidraw/Drawing 2024-07-16 19.35.06.excalidraw.md"
+    },
+    {
+      "basename": "呼伦贝尔",
+      "path": "10-Live/SelfDriving/呼伦贝尔.md"
     },
     {
       "basename": "tp-人物模板",
@@ -65,20 +105,8 @@
       "path": "88-Template/tp/tp-自动选择模板.md"
     },
     {
-      "basename": "20-Diary",
-      "path": "20-Diary/20-Diary.md"
-    },
-    {
       "basename": "2024-07-16_周二",
       "path": "20-Diary/2024-07-16_周二.md"
-    },
-    {
-      "basename": "tp_index",
-      "path": "88-Template/tp/tp_index.md"
-    },
-    {
-      "basename": "test",
-      "path": "50-Inbox/Logs/test.md"
     },
     {
       "basename": "tp_foldermoc-Include-subfolders",
@@ -129,18 +157,6 @@
       "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
     },
     {
-      "basename": "tte",
-      "path": "50-Inbox/Study/tte.md"
-    },
-    {
-      "basename": "50-Inbox",
-      "path": "50-Inbox/50-Inbox.md"
-    },
-    {
-      "basename": "sss",
-      "path": "50-Inbox/Logs/sss.md"
-    },
-    {
       "basename": "memos模板",
       "path": "20-Diary/memos模板.md"
     },
@@ -159,10 +175,6 @@
     {
       "basename": "《镰刀与城市》",
       "path": "30-Reading/《镰刀与城市》.md"
-    },
-    {
-      "basename": "《理解海德格尔》",
-      "path": "30-Reading/《理解海德格尔》.md"
     }
   ],
   "omittedPaths": [],

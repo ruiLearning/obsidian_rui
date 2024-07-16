@@ -5,15 +5,13 @@ obsidianUIMode: preview
 ---
 `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh`
 %% Begin Waypoint %%
-- **[[50-Inbox]]**
+- **[[50-Inbox-Index]]**
 	- **Logs**
-		- [[sss]]
 		- [[test]]
 	- **People**
 		- [[李四]]
 	- **Study**
 		- [[20221231235546]]
-		- [[tte]]
 	- **[[Website]]**
 
 %% End Waypoint %%
