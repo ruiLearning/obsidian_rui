@@ -993,7 +993,7 @@
   "devMode": false,
   "templateFolderPath": "88-Template/tp",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.10.0",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {
@@ -1051,6 +1051,8 @@
     "migrateToMacroIDFromEmbeddedMacro": true,
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
-    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
   }
 }

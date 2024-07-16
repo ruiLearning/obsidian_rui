@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian 插件之 Dataview - 少数派",
-      "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
+      "basename": "Obsidian大纲",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
+    },
+    {
+      "basename": "button",
+      "path": "88-Template/button.md"
+    },
+    {
+      "basename": "ObsidianTemplate",
+      "path": "ruiLearningCode/source/_posts/tech/ObsidianTemplate.md"
+    },
+    {
+      "basename": "Obsidian快捷键一览表",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian快捷键一览表.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 Aban/Home.md"
+    },
+    {
+      "basename": "测试看板",
+      "path": "00 Aban/测试看板.md"
     },
     {
       "basename": "obsidian",
       "path": "00 Aban/obsidian.md"
+    },
+    {
+      "basename": "Obsidian 插件之 Dataview - 少数派",
+      "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
+    },
+    {
+      "basename": "20-Diary",
+      "path": "20-Diary/20-Diary.md"
+    },
+    {
+      "basename": "tp-笔记分类模板",
+      "path": "88-Template/tp/tp-笔记分类模板.md"
+    },
+    {
+      "basename": "tte",
+      "path": "50-Inbox/Study/tte.md"
+    },
+    {
+      "basename": "50-Inbox",
+      "path": "50-Inbox/50-Inbox.md"
+    },
+    {
+      "basename": "sss",
+      "path": "50-Inbox/Logs/sss.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "88-Template/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "memos模板",
+      "path": "20-Diary/memos模板.md"
+    },
+    {
+      "basename": "2024-07-16",
+      "path": "20-Diary/2024-07-16.md"
+    },
+    {
+      "basename": "当月笔记串联",
+      "path": "20-Diary/当月笔记串联.md"
+    },
+    {
+      "basename": "搞钱",
+      "path": "00 Aban/生活/搞钱/搞钱.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "tp-日记模板-心情",
+      "path": "88-Template/tp/tp-日记模板-心情.md"
     },
     {
       "basename": "测试白板",
@@ -33,26 +113,6 @@
       "path": "30-Reading/《从零开始的女性主义》.md"
     },
     {
-      "basename": "2024-07-16",
-      "path": "20-Diary/2024-07-16.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "测试看板",
-      "path": "00 Aban/测试看板.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 Aban/Home.md"
-    },
-    {
       "basename": "tp-movie-douban",
       "path": "88-Template/tp/tp-movie-douban.md"
     },
@@ -61,20 +121,12 @@
       "path": "88-Template/tp/tp-movie.md"
     },
     {
-      "basename": "tp-日记模板-心情",
-      "path": "88-Template/tp/tp-日记模板-心情.md"
-    },
-    {
       "basename": "🎵Music",
       "path": "88-Template/🎵Music.md"
     },
     {
       "basename": "示例库内置的插件列表",
       "path": "88-Template/示例库内置的插件列表.md"
-    },
-    {
-      "basename": "button",
-      "path": "88-Template/button.md"
     },
     {
       "basename": "Calendar2021-2022",
@@ -87,14 +139,6 @@
     {
       "basename": "tp-插件启停模板",
       "path": "88-Template/tp/tp-插件启停模板.md"
-    },
-    {
-      "basename": "tp-笔记收集箱",
-      "path": "88-Template/tp/tp-笔记收集箱.md"
-    },
-    {
-      "basename": "tp-笔记分类模板",
-      "path": "88-Template/tp/tp-笔记分类模板.md"
     },
     {
       "basename": "tp_foldermoc-Include-subfolders",

@@ -44,11 +44,11 @@
     "【callout】Custom page preview",
     "【FONT】Consolas-Bookerly",
     "【Linkcard】",
-    "【Memos】Popover",
     "【Query】keep-live",
     "custom-admonitions.c9c6cb",
     "custom-admonitions.35eba8",
-    "【背景】默认笔记背景"
+    "【背景】默认笔记背景",
+    "【Memos】Popover"
   ],
   "translucency": false,
   "nativeMenus": true,
