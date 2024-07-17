@@ -41,5 +41,9 @@
   "workspaces-plus",
   "waypoint",
   "float-search",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-copy-block-link",
+  "obsidian-auto-link-title",
+  "convert-url-to-iframe",
+  "vim-toggle"
 ]

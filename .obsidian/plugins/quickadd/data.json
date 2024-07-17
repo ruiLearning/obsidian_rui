@@ -73,7 +73,7 @@
       "name": "打开今天日记",
       "type": "Macro",
       "command": true,
-      "macroId": "9655dda4-4148-471e-8979-7539d4d6a59d"
+      "macroId": "8d73c5fc-5786-4798-b80d-183a20c9e9c5"
     },
     {
       "id": "aa6840fd-9b83-4d4a-87d6-2b6471c1009b",
@@ -310,6 +310,20 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "cd72fb5f-11d5-47e8-8b1f-31afcc29f557",
+      "name": "MacroTest",
+      "type": "Macro",
+      "command": false,
+      "macroId": "f2e58b95-402f-42f1-b4d8-45e988d7ded9"
+    },
+    {
+      "id": "5f73efb8-cab4-47bf-afc5-a62ff935a3e1",
+      "name": "F2Rename",
+      "type": "Macro",
+      "command": false,
+      "macroId": "676192f1-a157-49ad-9e91-ca14cbd97d05"
     }
   ],
   "macros": [
@@ -1014,6 +1028,110 @@
           "settings": {}
         }
       ],
+      "runOnStartup": false
+    },
+    {
+      "name": "打开今天日记",
+      "id": "8d73c5fc-5786-4798-b80d-183a20c9e9c5",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "MacroTest",
+      "id": "f2e58b95-402f-42f1-b4d8-45e988d7ded9",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "16e34ab2-f13a-448e-bc92-67e3b48e46bc",
+          "choice": {
+            "id": "9bec32eb-4874-42e9-8a35-d75336666fa5",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "e8239271-11d6-4049-891b-02188f39a5b8",
+          "choice": {
+            "id": "1863d1e3-273e-498c-8700-abb4987479a9",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "6af472cc-cc03-4313-87ad-a3f0c8fad66e",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "6043182d-6309-4aa0-a25b-20bf353ba06d",
+          "time": 100
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "F2Rename",
+      "id": "676192f1-a157-49ad-9e91-ca14cbd97d05",
+      "commands": [],
       "runOnStartup": false
     }
   ],

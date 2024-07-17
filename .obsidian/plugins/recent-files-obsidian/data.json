@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian-QuickAdd最强教程",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian-QuickAdd最强教程.md"
+    },
+    {
+      "basename": "tp-游玩CheckList",
+      "path": "88-Template/tp/tp-游玩CheckList.md"
+    },
+    {
+      "basename": "tp-游玩模板",
+      "path": "88-Template/tp/tp-游玩模板.md"
+    },
+    {
+      "basename": "Obsidian快捷键一览表",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian快捷键一览表.md"
+    },
+    {
+      "basename": "Obsidian-Template",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian-Template.md"
+    },
+    {
+      "basename": "Obsidian大纲",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
+    },
+    {
+      "basename": "Obsidian 主页搭建",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian 主页搭建.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "button",
+      "path": "88-Template/button.md"
+    },
+    {
+      "basename": "10-Live-Index",
+      "path": "10-Live/10-Live-Index.md"
+    },
+    {
+      "basename": "呼伦贝尔",
+      "path": "10-Live/SelfDriving/呼伦贝尔.md"
+    },
+    {
+      "basename": "历史上的今天",
+      "path": "50-Inbox/Website/历史上的今天.md"
+    },
+    {
       "basename": "50-Inbox-Index",
       "path": "50-Inbox/50-Inbox-Index.md"
     },
@@ -9,20 +57,12 @@
       "path": "20-Diary/20-Diary-Index.md"
     },
     {
-      "basename": "10-Live-Index",
-      "path": "10-Live/10-Live-Index.md"
-    },
-    {
       "basename": "88-Template-Index",
       "path": "88-Template/tp/88-Template-Index.md"
     },
     {
       "basename": "Website",
       "path": "50-Inbox/Website/Website.md"
-    },
-    {
-      "basename": "历史上的今天",
-      "path": "50-Inbox/Website/历史上的今天.md"
     },
     {
       "basename": "20221231235546",
@@ -37,20 +77,8 @@
       "path": "20-Diary/calendar/20240716_周二.md"
     },
     {
-      "basename": "tp-游玩模板",
-      "path": "88-Template/tp/tp-游玩模板.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
       "basename": "Drawing 2024-07-16 19.35.06.excalidraw",
       "path": "00 Aban/Excalidraw/Drawing 2024-07-16 19.35.06.excalidraw.md"
-    },
-    {
-      "basename": "呼伦贝尔",
-      "path": "10-Live/SelfDriving/呼伦贝尔.md"
     },
     {
       "basename": "tp-人物模板",
@@ -93,10 +121,6 @@
       "path": "88-Template/tp/tp-笔记分类模板.md"
     },
     {
-      "basename": "button",
-      "path": "88-Template/button.md"
-    },
-    {
       "basename": "tp-通用模板",
       "path": "88-Template/tp/tp-通用模板.md"
     },
@@ -133,18 +157,6 @@
       "path": "20-Diary/当月笔记串联.md"
     },
     {
-      "basename": "Obsidian大纲",
-      "path": "ruiLearningCode/source/_posts/tech/Obsidian大纲.md"
-    },
-    {
-      "basename": "ObsidianTemplate",
-      "path": "ruiLearningCode/source/_posts/tech/ObsidianTemplate.md"
-    },
-    {
-      "basename": "Obsidian快捷键一览表",
-      "path": "ruiLearningCode/source/_posts/tech/Obsidian快捷键一览表.md"
-    },
-    {
       "basename": "测试看板",
       "path": "00 Aban/测试看板.md"
     },
@@ -155,26 +167,6 @@
     {
       "basename": "Obsidian 插件之 Dataview - 少数派",
       "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
-    },
-    {
-      "basename": "memos模板",
-      "path": "20-Diary/memos模板.md"
-    },
-    {
-      "basename": "搞钱",
-      "path": "00 Aban/生活/搞钱/搞钱.md"
-    },
-    {
-      "basename": "测试白板",
-      "path": "00 Aban/测试白板.canvas"
-    },
-    {
-      "basename": "《笔醒山河》",
-      "path": "30-Reading/《笔醒山河》.md"
-    },
-    {
-      "basename": "《镰刀与城市》",
-      "path": "30-Reading/《镰刀与城市》.md"
     }
   ],
   "omittedPaths": [],
