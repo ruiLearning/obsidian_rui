@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian-QuickAdd最强教程",
-      "path": "ruiLearningCode/source/_posts/tech/Obsidian-QuickAdd最强教程.md"
+      "basename": "内蒙古-乌兰布统",
+      "path": "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md"
+    },
+    {
+      "basename": "内蒙古-乌兰布统",
+      "path": "10-Live/SelfDriving/内蒙古-乌兰布统.md"
+    },
+    {
+      "basename": "旅行-大纲",
+      "path": "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md"
     },
     {
       "basename": "tp-游玩CheckList",
@@ -11,6 +19,38 @@
     {
       "basename": "tp-游玩模板",
       "path": "88-Template/tp/tp-游玩模板.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "10-Live-Index",
+      "path": "10-Live/10-Live-Index.md"
+    },
+    {
+      "basename": "山东-青岛-灵山岛",
+      "path": "ruiLearningCode/source/_posts/live/travel/shandong/山东-青岛-灵山岛.md"
+    },
+    {
+      "basename": "旅行-准备",
+      "path": "ruiLearningCode/source/_posts/live/travel/旅行-准备.md"
+    },
+    {
+      "basename": "20-Diary-Index",
+      "path": "20-Diary/20-Diary-Index.md"
+    },
+    {
+      "basename": "tp_foldermoc-Include-subfolders",
+      "path": "88-Template/tp/tp_foldermoc-Include-subfolders.md"
+    },
+    {
+      "basename": "button",
+      "path": "88-Template/button.md"
+    },
+    {
+      "basename": "Obsidian-QuickAdd最强教程",
+      "path": "ruiLearningCode/source/_posts/tech/Obsidian-QuickAdd最强教程.md"
     },
     {
       "basename": "Obsidian快捷键一览表",
@@ -29,32 +69,12 @@
       "path": "ruiLearningCode/source/_posts/tech/Obsidian 主页搭建.md"
     },
     {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "button",
-      "path": "88-Template/button.md"
-    },
-    {
-      "basename": "10-Live-Index",
-      "path": "10-Live/10-Live-Index.md"
-    },
-    {
-      "basename": "呼伦贝尔",
-      "path": "10-Live/SelfDriving/呼伦贝尔.md"
-    },
-    {
       "basename": "历史上的今天",
       "path": "50-Inbox/Website/历史上的今天.md"
     },
     {
       "basename": "50-Inbox-Index",
       "path": "50-Inbox/50-Inbox-Index.md"
-    },
-    {
-      "basename": "20-Diary-Index",
-      "path": "20-Diary/20-Diary-Index.md"
     },
     {
       "basename": "88-Template-Index",
@@ -133,10 +153,6 @@
       "path": "20-Diary/2024-07-16_周二.md"
     },
     {
-      "basename": "tp_foldermoc-Include-subfolders",
-      "path": "88-Template/tp/tp_foldermoc-Include-subfolders.md"
-    },
-    {
       "basename": "WeekPlan_H5",
       "path": "88-Template/tp/WeekPlan_H5.md"
     },
@@ -159,14 +175,6 @@
     {
       "basename": "测试看板",
       "path": "00 Aban/测试看板.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "00 Aban/obsidian.md"
-    },
-    {
-      "basename": "Obsidian 插件之 Dataview - 少数派",
-      "path": "00 Aban/Obsidian 插件之 Dataview - 少数派.md"
     }
   ],
   "omittedPaths": [],

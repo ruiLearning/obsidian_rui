@@ -3,7 +3,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Aban",
   "attachmentFolderPath": "ruiLearningCode/source/_obsidian",
-  "vimMode": false,
+  "vimMode": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
