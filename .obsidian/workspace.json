@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "88-Template/tp/tp-游玩模板.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05997440e1d3fce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 267.5
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -240,9 +254,18 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4eccbb65dcc45dbc",
+  "active": "05997440e1d3fce1",
   "lastOpenFiles": [
+    "88-Template/tp/tp-游玩模板.md",
+    "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md",
+    "ruiLearningCode/public/10天搞定考研词汇-新东方.html",
     "ruiLearningCode/db.json",
+    "ruiLearningCode/source/_posts/tech/Obsidian-Dataview最强教程.md",
+    "30-Reading/《理解海德格尔》.md",
+    "00 Aban/扎克·施奈德版正义联盟 Zack Snyder.md",
+    "30-Reading/《镰刀与城市》.md",
+    "30-Reading/《笔醒山河》.md",
+    "30-Reading/《从零开始的女性主义》.md",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.eot",
     "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.woff",
@@ -261,15 +284,11 @@
     "ruiLearningCode/public/navigation/assets/images/logos/js.jpg",
     "ruiLearningCode/public/navigation/assets/images/logos/sgwx.jpg",
     "ruiLearningCode/public/navigation/assets/images/logos/ruiruilaile_cycle.png",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/css/meteocons-codes.css",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/css/animation.css",
     "ruiLearningCode/source/_posts/tech/Markdown页面UI-Template.md",
     "10-Live/SelfDriving/内蒙古-乌兰布统.md",
     "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
-    "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md",
     "ruiLearningCode/source/_posts/tech/Markdown页面UI及Tag.md",
     "88-Template/tp/tp-游玩CheckList.md",
-    "88-Template/tp/tp-游玩模板.md",
     "88-Template/常用工具.md",
     "内蒙古-乌兰布统\n.md",
     "10-Live/10-Live-Index.md",
@@ -282,12 +301,6 @@
     "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-呼伦贝尔.md",
     "ruiLearningCode/source/_posts/live/travel/shandong/山东-青岛-灵山岛.md",
     "ruiLearningCode/source/_posts/live/travel/旅行-准备.md",
-    "10-Live/SelfDriving/内蒙古-呼伦贝尔.md",
-    "00 Aban/ruiLearningCode/source/_posts/live/travel/beijing/beijing.md",
-    "00 Aban/00 Aban/ruiLearningCode/source/_posts/live/travel/beijing/beijing.md",
-    "ruiLearningCode/source/_posts/live/travel/travel-index.md",
-    "00 Aban/ruiLearningCode/source/_posts/live/travel/travel.md",
-    "00 Aban/00 Aban/ruiLearningCode/source/_posts/live/travel/travel.md",
     "00 Aban/测试白板.canvas",
     "未命名 1.canvas"
   ]
