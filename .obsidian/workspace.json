@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4c564fbf42b061",
+        "id": "27078015dcc478be",
         "type": "tabs",
         "children": [
           {
-            "id": "4eccbb65dcc45dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "88-Template/tp/tp-游玩模板.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "05997440e1d3fce1",
+            "id": "97cf8c02c2738a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +240,24 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "05997440e1d3fce1",
+  "active": "97cf8c02c2738a18",
   "lastOpenFiles": [
-    "88-Template/tp/tp-游玩模板.md",
+    "10-Live/SelfDriving/内蒙古-乌兰布统.md",
     "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md",
+    "ruiLearningCode/public/内蒙古-赤峰.html",
+    "ruiLearningCode/public/河北-承德.html",
+    "ruiLearningCode/public/tags/游玩/index.html",
+    "ruiLearningCode/public/tags/游玩",
+    "10-Live/Travel/河北-承德.md",
+    "ruiLearningCode/source/_posts/live/travel/hebei/河北-承德.md",
+    "ruiLearningCode/source/_posts/live/travel/hebei",
+    "ruiLearningCode/source/_posts/live/travel/hebie",
+    "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-赤峰.md",
+    "10-Live/SelfDriving/内蒙古-赤峰.md",
+    "88-Template/常用工具.md",
+    "10-Live/10-Live-Index.md",
+    "10-Live/Travel",
+    "88-Template/tp/tp-游玩模板.md",
     "ruiLearningCode/public/10天搞定考研词汇-新东方.html",
     "ruiLearningCode/db.json",
     "ruiLearningCode/source/_posts/tech/Obsidian-Dataview最强教程.md",
@@ -267,15 +267,8 @@
     "30-Reading/《笔醒山河》.md",
     "30-Reading/《从零开始的女性主义》.md",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.eot",
-    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.woff",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.ttf",
     "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
-    "ruiLearningCode/public/2024/07/08/live-riding-生活-骑行-北京To山东.html",
-    "ruiLearningCode/public/2024/07/08/live-travel-shandong-山东-青岛-灵山岛.html",
-    "ruiLearningCode/public/2024/07/08/live-riding-生活-骑行-第一次长途骑行准备.html",
     "ruiLearningCode/public/navigation/assets/images/logos/sb.png",
-    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.woff",
     "ruiLearningCode/public/navigation/assets/images/logos/mvcat.jpg",
     "ruiLearningCode/public/navigation/assets/images/logos/v2.png",
     "ruiLearningCode/public/navigation/assets/images/logos/sspai.png",
@@ -285,22 +278,15 @@
     "ruiLearningCode/public/navigation/assets/images/logos/sgwx.jpg",
     "ruiLearningCode/public/navigation/assets/images/logos/ruiruilaile_cycle.png",
     "ruiLearningCode/source/_posts/tech/Markdown页面UI-Template.md",
-    "10-Live/SelfDriving/内蒙古-乌兰布统.md",
     "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
     "ruiLearningCode/source/_posts/tech/Markdown页面UI及Tag.md",
     "88-Template/tp/tp-游玩CheckList.md",
-    "88-Template/常用工具.md",
     "内蒙古-乌兰布统\n.md",
-    "10-Live/10-Live-Index.md",
     "asdf-aa.md",
     "10-Live/Travel/asdf-asdf\n.md",
     "10-Live/Travel/aa-aa\n.md",
     "10-Live/Travel/asdf-asdf.md",
     "10-Live/Travel/乌兰布统.md",
-    "10-Live/SelfDriving/乌兰布统.md",
-    "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-呼伦贝尔.md",
-    "ruiLearningCode/source/_posts/live/travel/shandong/山东-青岛-灵山岛.md",
-    "ruiLearningCode/source/_posts/live/travel/旅行-准备.md",
     "00 Aban/测试白板.canvas",
     "未命名 1.canvas"
   ]

@@ -5,6 +5,14 @@
       "path": "ruiLearningCode/source/_posts/live/travel/neimenggu/内蒙古-乌兰布统.md"
     },
     {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "10-Live-Index",
+      "path": "10-Live/10-Live-Index.md"
+    },
+    {
       "basename": "tp-游玩模板",
       "path": "88-Template/tp/tp-游玩模板.md"
     },
@@ -33,24 +41,12 @@
       "path": "30-Reading/《从零开始的女性主义》.md"
     },
     {
-      "basename": "内蒙古-乌兰布统",
-      "path": "10-Live/SelfDriving/内蒙古-乌兰布统.md"
-    },
-    {
       "basename": "旅行-大纲",
       "path": "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md"
     },
     {
       "basename": "tp-游玩CheckList",
       "path": "88-Template/tp/tp-游玩CheckList.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "10-Live-Index",
-      "path": "10-Live/10-Live-Index.md"
     },
     {
       "basename": "山东-青岛-灵山岛",
@@ -191,14 +187,6 @@
     {
       "basename": "query",
       "path": "20-Diary/query.md"
-    },
-    {
-      "basename": "当月笔记串联",
-      "path": "20-Diary/当月笔记串联.md"
-    },
-    {
-      "basename": "测试看板",
-      "path": "00 Aban/测试看板.md"
     }
   ],
   "omittedPaths": [],
