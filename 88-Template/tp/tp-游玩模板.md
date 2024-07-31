@@ -81,7 +81,7 @@ updated: <% tp.file.last_modified_date() %>
 
 ---
 
-## 🏷️行李准备
+## 🏷️准备列表
 结合旅行目的地、季节、环境、天气等因素，参照📇[[tp-游玩CheckList]]  | 物品检查单打包行李。
 
 ---
