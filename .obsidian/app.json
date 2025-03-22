@@ -19,7 +19,6 @@
     "ruiLearningCode/token/",
     "ruiLearningCode/node_modules/"
   ],
-  "showRibbon": true,
   "showUnsupportedFiles": true,
   "showInlineTitle": false
 }

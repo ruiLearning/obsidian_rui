@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "199Last20",
-      "path": "00 Aban/199/199Last20.md"
-    },
-    {
       "basename": "常用工具",
       "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "199Last20",
+      "path": "00 Aban/199/199Last20.md"
     },
     {
       "basename": "199英语大作文模板",
@@ -202,6 +202,9 @@
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
