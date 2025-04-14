@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+                "file": "ruiLearningCode/source/_posts/live/learn/听—培养优秀孩子的十本书-樊登.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "浙江"
+              "title": "听—培养优秀孩子的十本书-樊登"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -73,7 +73,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "插件不再活动"
             }
           },
           {
@@ -83,7 +83,7 @@
               "type": "file-tree-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "插件不再活动"
             }
           },
           {
@@ -102,8 +102,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 268.5
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -144,8 +144,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -170,7 +170,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新标签页"
             }
           },
           {
@@ -193,8 +193,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -203,12 +203,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "432c9860679a8545",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "0b3485207df574dd",
@@ -296,32 +306,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "float-search:Search obsidian in modal view": false,
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "9133243d382a9fbb",
+  "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
+    "ruiLearningCode/source/_posts/live/plan/2025Plan.md",
+    "ruiLearningCode/source/_posts/live/plan/生活-9月计划.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
     "ruiLearningCode/public/categories/live/travel/zhejiang/index.html",
     "ruiLearningCode/public/categories/live/travel/zhejiang",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-绍兴.md",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州.md",
-    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
     "ruiLearningCode/db.json",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/video",
@@ -330,7 +342,6 @@
     "ruiLearningCode/public/js/utils.js",
     "ruiLearningCode/public/js/tw_cn.js",
     "ruiLearningCode/public/css/recommend.css",
-    "ruiLearningCode/public/css/var.css",
     "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
     "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
     "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
@@ -362,7 +373,6 @@
     "ruiLearningCode/source/_posts/english/18练/18练-精准写作-论据.md",
     "ruiLearningCode/source/_posts/english/18练/18练-13-15之后大作文第一段.md",
     "ruiLearningCode/source/_posts/english/18练/199英语专项整篇训练_鲤的英语.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-1~3由短到长写句子.md",
     "00 Aban/测试/测试白板.canvas",
     "未命名 1.canvas"
   ]
