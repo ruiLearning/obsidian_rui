@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc1a92c7d1eae87",
+        "id": "6c08fa30482fd229",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9fd5eb4b48d4f1",
+            "id": "9133243d382a9fbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "浙江"
             }
           }
         ]
@@ -149,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 浙江"
             }
           },
           {
@@ -309,8 +315,39 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "179ce7c61eca4ce3",
+  "active": "9133243d382a9fbb",
   "lastOpenFiles": [
+    "ruiLearningCode/public/categories/live/travel/zhejiang/index.html",
+    "ruiLearningCode/public/categories/live/travel/zhejiang",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-绍兴.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+    "ruiLearningCode/db.json",
+    "ruiLearningCode/public/video/VID_20220318_154427.mp4",
+    "ruiLearningCode/public/video",
+    "ruiLearningCode/public/css/index.css",
+    "ruiLearningCode/public/js/main.js",
+    "ruiLearningCode/public/js/utils.js",
+    "ruiLearningCode/public/js/tw_cn.js",
+    "ruiLearningCode/public/css/recommend.css",
+    "ruiLearningCode/public/css/var.css",
+    "ruiLearningCode/public/navigation/assets/css/fonts/elusive/font/elusive.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
+    "ruiLearningCode/public/navigation/assets/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
+    "ruiLearningCode/public/navigation/assets/images/logos/ydh.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/zzgj.jpg",
+    "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
+    "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
+    "ruiLearningCode/public/navigation/assets/images/logos/xiayu.png",
+    "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
+    "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州 1.md",
+    "ruiLearningCode/source/_posts/live/travel/shandong/山东-枣庄.md",
+    "ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md",
+    "10-Live/10-Live-Index.md",
+    "20-Diary/2024-07-16_周二.md",
     "88-Template/常用工具.md",
     "00 Aban/199/199Last20.md",
     "ruiLearningCode/source/_posts/199/英语/199英语大作文模板.md",
@@ -326,38 +363,7 @@
     "ruiLearningCode/source/_posts/english/18练/18练-13-15之后大作文第一段.md",
     "ruiLearningCode/source/_posts/english/18练/199英语专项整篇训练_鲤的英语.md",
     "ruiLearningCode/source/_posts/english/18练/18练-1~3由短到长写句子.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-[基本功]词汇听写.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-[基本功]保持写句子手感(50句).md",
-    "00 Aban/199/199英语计划.md",
-    "00 Aban/199/199数学计划.md",
-    "00 Aban/199/199逻辑计划.md",
-    "00 Aban/199/199逻辑计划 - 副本.md",
-    "ruiLearningCode/source/_posts/english/10天搞定考研词汇-新东方.md",
-    "ruiLearningCode/source/_posts/english/鲤不语-一个长难度句的诞生.md",
-    "ruiLearningCode/source/_posts/english/鲤不语计划.md",
-    "ruiLearningCode/source/_posts/english/英语积累-常见的介词错误.md",
-    "ruiLearningCode/source/_posts/english/英语积累-词性、语法、句子、时态.md",
     "00 Aban/测试/测试白板.canvas",
-    "00 Aban/测试",
-    "00 Aban/199",
-    "99-Attachment/ruiLearningCode/themes/butterfly/source",
-    "99-Attachment/ruiLearningCode/themes/butterfly/_config.yml",
-    "99-Attachment/ruiLearningCode/themes/butterfly/scripts",
-    "99-Attachment/ruiLearningCode/themes/butterfly/package.json",
-    "99-Attachment/ruiLearningCode/themes/butterfly/LICENSE",
-    "99-Attachment/ruiLearningCode/themes/butterfly/layout",
-    "99-Attachment/ruiLearningCode/themes/butterfly/languages",
-    "99-Attachment/ruiLearningCode/source/_posts/see_world",
-    "99-Attachment/ruiLearningCode/node_modules/retry/equation.gif",
-    "99-Attachment/ruiLearningCode/node_modules/psl/browserstack-logo.svg",
-    "99-Attachment/ruiLearningCode/node_modules/protobufjs/protobuf.png",
-    "99-Attachment/ruiLearningCode/node_modules/protobufjs/donate.png",
-    "99-Attachment/ruiLearningCode/node_modules/long/long.png",
-    "99-Attachment/ruiLearningCode/node_modules/long/donate.png",
-    "99-Attachment/ruiLearningCode/node_modules/hexo-algolia/algolia-write-key.png",
-    "99-Attachment/ruiLearningCode/node_modules/colour/colour.png",
-    "99-Attachment/ruiLearningCode/node_modules/bytebuffer/donate.png",
-    "99-Attachment/ruiLearningCode/node_modules/bytebuffer/bytebuffer.png",
     "未命名 1.canvas"
   ]
 }
