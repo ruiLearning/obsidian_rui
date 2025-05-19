@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/learn/听—培养优秀孩子的十本书-樊登.md",
+                "file": "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "听—培养优秀孩子的十本书-樊登"
+              "title": "浙江"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -73,7 +73,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -83,7 +83,7 @@
               "type": "file-tree-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -170,7 +170,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -306,18 +306,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
@@ -325,15 +325,17 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "9133243d382a9fbb",
   "lastOpenFiles": [
+    "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州.md",
+    "ruiLearningCode/source/_posts/live/learn/听—培养优秀孩子的十本书-樊登.md",
     "ruiLearningCode/source/_posts/live/plan/2025Plan.md",
     "ruiLearningCode/source/_posts/live/plan/生活-9月计划.md",
-    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
     "ruiLearningCode/public/categories/live/travel/zhejiang/index.html",
     "ruiLearningCode/public/categories/live/travel/zhejiang",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-绍兴.md",
-    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州.md",
     "ruiLearningCode/db.json",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/video",
@@ -353,7 +355,6 @@
     "ruiLearningCode/public/navigation/assets/images/logos/youtube.png",
     "ruiLearningCode/public/navigation/assets/images/logos/xiayu.png",
     "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
-    "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州 1.md",
     "ruiLearningCode/source/_posts/live/travel/shandong/山东-枣庄.md",
     "ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md",
@@ -372,7 +373,6 @@
     "ruiLearningCode/source/_posts/english/18练/18练-写作主题词.md",
     "ruiLearningCode/source/_posts/english/18练/18练-精准写作-论据.md",
     "ruiLearningCode/source/_posts/english/18练/18练-13-15之后大作文第一段.md",
-    "ruiLearningCode/source/_posts/english/18练/199英语专项整篇训练_鲤的英语.md",
     "00 Aban/测试/测试白板.canvas",
     "未命名 1.canvas"
   ]
