@@ -11,10 +11,15 @@
             "id": "e3f06d02fdd7902f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ruiLearningCode/source/_posts/tech/Hexo评论Twikoo+Vercel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hexo评论Twikoo+Vercel"
             }
           }
         ]
@@ -67,8 +72,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -77,8 +82,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
             }
           },
           {
@@ -149,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+                "file": "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 浙江"
+              "title": "Outline of 旅行-大纲"
             }
           },
           {
@@ -301,6 +306,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -320,8 +326,16 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "e3f06d02fdd7902f",
   "lastOpenFiles": [
+    "ruiLearningCode/db.json",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-丽水.md",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-丽水.md~",
+    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
+    "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
+    "ruiLearningCode/source/_posts/live/travel/旅行-模版_基本信息.md",
+    "ruiLearningCode/source/_posts/live/travel/旅行-模版.md",
+    "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
     "ruiLearningCode/public/video/VID_20220318_154427.mp4",
     "ruiLearningCode/public/video",
     "ruiLearningCode/public/js/tw_cn.js",
@@ -331,8 +345,6 @@
     "ruiLearningCode/public/css/var.css",
     "ruiLearningCode/public/css/recommend.css",
     "ruiLearningCode/public/css/hbe.style.css",
-    "ruiLearningCode/public/pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf",
-    "ruiLearningCode/public/pdf",
     "ruiLearningCode/public/navigation/assets/css/fonts/fontawesome/fonts/fontawesome-webfont.svg",
     "ruiLearningCode/public/navigation/assets/css/fonts/linecons/font/linecons.svg",
     "ruiLearningCode/public/navigation/assets/css/fonts/meteocons/font/meteocons.svg",
@@ -343,14 +355,11 @@
     "ruiLearningCode/public/navigation/assets/images/logos/zh.jpg",
     "ruiLearningCode/public/navigation/assets/images/logos/ydh.png",
     "ruiLearningCode/public/navigation/assets/images/logos/xiayu.png",
-    "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江.md",
-    "ruiLearningCode/source/_posts/live/travel/旅行-大纲.md",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州.md",
     "ruiLearningCode/source/_posts/live/learn/听—培养优秀孩子的十本书-樊登.md",
     "ruiLearningCode/source/_posts/live/plan/2025Plan.md",
     "ruiLearningCode/source/_posts/live/plan/生活-9月计划.md",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-绍兴.md",
-    "ruiLearningCode/source/_posts/live/travel/beijing/北京.md",
     "ruiLearningCode/source/_posts/live/travel/zhejiang/浙江-杭州 1.md",
     "ruiLearningCode/source/_posts/live/travel/shandong/山东-枣庄.md",
     "ruiLearningCode/source/_posts/live/travel/beijing/北京-昌平.md",
@@ -365,9 +374,6 @@
     "ruiLearningCode/source/_posts/199/英语/199英语押题_鲤的英语.md",
     "ruiLearningCode/source/_posts/199/英语/199英语阅读方法及长难句逻辑.md",
     "ruiLearningCode/source/_posts/english/18练/18练专项整篇训练_鲤的英语.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-中英句子关键差异.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-写作主题词.md",
-    "ruiLearningCode/source/_posts/english/18练/18练-精准写作-论据.md",
     "00 Aban/测试/测试白板.canvas",
     "未命名 1.canvas"
   ]
