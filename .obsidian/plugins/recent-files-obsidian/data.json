@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hexo+Mongodb+Vercel实现任务清单",
+      "path": "ruiLearningCode/source/_posts/tech/Hexo+Mongodb+Vercel实现任务清单.md"
+    },
+    {
       "basename": "Hexo评论Twikoo+Vercel",
       "path": "ruiLearningCode/source/_posts/tech/Hexo评论Twikoo+Vercel.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022年03月18日总结",
       "path": "ruiLearningCode/source/_posts/199/plan/2022年03月18日总结.md"
-    },
-    {
-      "basename": "2022年03月16日总结",
-      "path": "ruiLearningCode/source/_posts/199/plan/2022年03月16日总结.md"
     }
   ],
   "omittedPaths": [],
