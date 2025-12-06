@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "健身计划",
+      "path": "ruiLearningCode/source/_posts/live/health/健身计划.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
       "basename": "Hexo+Mongodb+Vercel实现任务清单",
       "path": "ruiLearningCode/source/_posts/tech/Hexo+Mongodb+Vercel实现任务清单.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "10-Live-Index",
       "path": "10-Live/10-Live-Index.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
     },
     {
       "basename": "199Last20",
@@ -195,10 +199,6 @@
     {
       "basename": "2022年3月计划及复盘",
       "path": "ruiLearningCode/source/_posts/199/plan/2022年3月计划及复盘.md"
-    },
-    {
-      "basename": "2022年03月18日总结",
-      "path": "ruiLearningCode/source/_posts/199/plan/2022年03月18日总结.md"
     }
   ],
   "omittedPaths": [],
